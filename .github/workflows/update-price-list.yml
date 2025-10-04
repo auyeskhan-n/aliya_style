@@ -1,0 +1,66 @@
+name: Update Kaspi Price List
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allow manual triggering
+  push:
+    branches: [ main ]
+
+jobs:
+  update-price-list:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: Generate XML price list
+      env:
+        WIPON_API_TOKEN: ${{ secrets.WIPON_API_TOKEN }}
+      run: |
+        python fetch_and_convert.py
+        
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Commit and push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add price.xml
+        git commit -m "Update price list - $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
+        git push
+        
+    - name: Deploy to GitHub Pages
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: .
+        publish_branch: gh-pages
+        keep_files: false
+        
+    - name: Upload XML as artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: price-list
+        path: price.xml
