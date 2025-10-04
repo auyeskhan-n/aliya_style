@@ -15,7 +15,11 @@
       <model>Zara | Костюм женский, синий (1234) | П:44 | Р:46</model>
       <brand>Zara</brand>
       <availabilities>
+<<<<<<< HEAD
         <availability available="no" storeId="PP1" stockCount="0"/>
+=======
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+>>>>>>> 273ef6f03d4471ad7fbe850d902ab7a43dc1fcd9
       </availabilities>
       <price>25000.00</price>
     </offer>
