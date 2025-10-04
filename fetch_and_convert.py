@@ -98,9 +98,10 @@ def convert_to_kaspi_xml(data):
             availability.set("storeId", STORE_ID)
             availability.set("stockCount", str(int(quantity)))
             
-            # Price
+            # Price (must be integer according to XSD)
             price = ET.SubElement(offer, "price")
-            price.text = product.get('selling_price', '0')
+            price_value = float(product.get('selling_price', 0))
+            price.text = str(int(price_value))
     
     return root
 
