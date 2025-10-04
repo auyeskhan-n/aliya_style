@@ -67,8 +67,8 @@ def convert_to_kaspi_xml(data):
     # Process each product
     if 'data' in data:
         for product in data['data']:
-            # Skip products with zero or negative quantity
-            if float(product.get('quantity', 0)) <= 0:
+            # Skip products with negative quantity only (include zero quantity products)
+            if float(product.get('quantity', 0)) < 0:
                 continue
                 
             offer = ET.SubElement(offers, "offer")
@@ -87,9 +87,16 @@ def convert_to_kaspi_xml(data):
             # Availabilities
             availabilities = ET.SubElement(offer, "availabilities")
             availability = ET.SubElement(availabilities, "availability")
-            availability.set("available", "yes")
+            
+            # Set availability based on quantity
+            quantity = float(product.get('quantity', 0))
+            if quantity > 0:
+                availability.set("available", "yes")
+            else:
+                availability.set("available", "no")
+                
             availability.set("storeId", STORE_ID)
-            availability.set("stockCount", str(int(float(product.get('quantity', 0)))))
+            availability.set("stockCount", str(int(quantity)))
             
             # Price
             price = ET.SubElement(offer, "price")
