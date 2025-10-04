@@ -26,7 +26,6 @@ def fetch_wipon_data(use_sample=False):
             sys.exit(1)
     
     url = WIPON_API_URL
-    params = API_PARAMS.copy()
     
     # Add authentication headers
     token = os.getenv('WIPON_API_TOKEN')
@@ -36,10 +35,66 @@ def fetch_wipon_data(use_sample=False):
     if token:
         headers['Authorization'] = f'Bearer {token}'
     
+    all_products = []
+    page = 1
+    
     try:
-        response = requests.get(url, params=params, headers=headers)
-        response.raise_for_status()
-        return response.json()
+        while True:
+            params = API_PARAMS.copy()
+            params['page'] = page
+            
+            print(f"Fetching page {page}...")
+            response = requests.get(url, params=params, headers=headers)
+            response.raise_for_status()
+            
+            data = response.json()
+            
+            # Debug: Print API response structure for first page
+            if page == 1 and 'meta' in data:
+                meta = data['meta']
+                print(f"API Info: {meta.get('total', 'unknown')} total products across {meta.get('last_page', 'unknown')} pages")
+            
+            # Check if we have products in this page
+            if 'data' not in data or not data['data']:
+                print(f"No more products found on page {page}")
+                break
+                
+            # Add products from this page
+            page_products = data['data']
+            all_products.extend(page_products)
+            print(f"Found {len(page_products)} products on page {page}")
+            
+            # Check if this is the last page
+            if 'meta' in data:
+                meta = data['meta']
+                if page >= meta.get('last_page', page):
+                    print(f"Reached last page ({meta.get('last_page', page)})")
+                    break
+            else:
+                # Fallback: if no meta, check if we got fewer products than expected
+                if len(page_products) < 250:  # API seems to limit to 250 per page
+                    print(f"Last page reached (got {len(page_products)} < 250)")
+                    break
+                
+            page += 1
+            
+            # Safety limit to prevent infinite loops
+            if page > 50:
+                print("Reached safety limit of 50 pages")
+                break
+        
+        print(f"Total products fetched: {len(all_products)}")
+        
+        # Return in the same format as the original API response
+        return {
+            'data': all_products,
+            'meta': {
+                'total': len(all_products),
+                'pages_fetched': page - 1,
+                'last_page': page - 1
+            }
+        }
+        
     except requests.exceptions.RequestException as e:
         print(f"Error fetching data from Wipon API: {e}")
         print("Falling back to sample data...")
