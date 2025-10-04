@@ -71,7 +71,7 @@
             "selling_price": "25000.00",
             "vendor_code": "Z1234",
             "barcode": "1234567890123",
-            "quantity": "2.000",
+            "quantity": "0.000",
             "weight": null,
             "excise_stamp": null,
             "original_vendor_code": "1234",

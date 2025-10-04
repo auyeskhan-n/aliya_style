@@ -17,8 +17,8 @@ API_PARAMS = {
     "type": 0,
     "stock_id": STOCK_ID,
     "page": 1,
-    "per_page": 500,
-    "positive_balance": 1,
+    "per_page": 1000,
+    "positive_balance": 0,
     "is_weighted": 0,
     "trashed": 0,
     "only_parents": 1
