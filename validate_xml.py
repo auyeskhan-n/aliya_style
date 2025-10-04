@@ -125,7 +125,7 @@ def validate_offer(offer, offer_num):
     if availabilities is None:
         issues.append("missing availabilities")
     else:
-        avail = availabilities.find('.//{kaspiShopping}availabilities')
+        avail = availabilities.find('.//{kaspiShopping}availability')
         if avail is None:
             issues.append("missing availability details")
         else:

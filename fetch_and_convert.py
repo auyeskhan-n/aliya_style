@@ -86,7 +86,7 @@ def convert_to_kaspi_xml(data):
             
             # Availabilities
             availabilities = ET.SubElement(offer, "availabilities")
-            availability = ET.SubElement(availabilities, "availabilities")
+            availability = ET.SubElement(availabilities, "availability")
             availability.set("available", "yes")
             availability.set("storeId", STORE_ID)
             availability.set("stockCount", str(int(float(product.get('quantity', 0)))))
