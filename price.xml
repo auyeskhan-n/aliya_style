@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-04 15:07:27" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-04 15:21:57" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Aliya Style</company>
   <merchantid>30375992</merchantid>
   <offers>
@@ -9,7 +9,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>25000.00</price>
+      <price>25000</price>
     </offer>
     <offer sku="Q52296">
       <model> | Батник-мужской | П:40 | Р:XL</model>
@@ -17,7 +17,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>25000.00</price>
+      <price>25000</price>
     </offer>
     <offer sku="G32362">
       <model> | Батник-мужской | П:40 | Р:XL</model>
@@ -25,7 +25,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>25000.00</price>
+      <price>25000</price>
     </offer>
     <offer sku="568270">
       <model> | Ботинки со шнуром-черные | П:15 | Р:39</model>
@@ -33,7 +33,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>52700.00</price>
+      <price>52700</price>
     </offer>
     <offer sku="Z84275">
       <model> | Ботинки со шнуром-черные | П:15 | Р:40</model>
@@ -41,7 +41,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>52700.00</price>
+      <price>52700</price>
     </offer>
     <offer sku="Q69139">
       <model> | Брюки-бежевые-кюлоты | П:8 | Р:36</model>
@@ -49,7 +49,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>21900.00</price>
+      <price>21900</price>
     </offer>
     <offer sku="760167">
       <model> | Брюки-джинсовые | П:9 | Р:36</model>
@@ -57,7 +57,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>23300.00</price>
+      <price>23300</price>
     </offer>
     <offer sku="939493">
       <model> | Желетка-трикотаж | П:53-54 | Р:XL</model>
@@ -65,7 +65,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>27500.00</price>
+      <price>27500</price>
     </offer>
     <offer sku="B92328">
       <model> | Желетка-трикотаж | П:53-54 | Р:XXL</model>
@@ -73,7 +73,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>28100.00</price>
+      <price>28100</price>
     </offer>
     <offer sku="P39187">
       <model> | Платок-9шт-2дол | П:17 | Р:</model>
@@ -81,7 +81,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>28600.00</price>
+      <price>28600</price>
     </offer>
     <offer sku="B37044">
       <model> | Платье-фукция | П:6 | Р:44</model>
@@ -89,7 +89,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>37000.00</price>
+      <price>37000</price>
     </offer>
     <offer sku="D47948">
       <model> | Платье-фукция | П:6 | Р:48</model>
@@ -97,7 +97,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>37000.00</price>
+      <price>37000</price>
     </offer>
     <offer sku="D23936">
       <model> | Рубашка с пуговиц сзади-голубые | П:9 | Р:L</model>
@@ -105,7 +105,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>22700.00</price>
+      <price>22700</price>
     </offer>
     <offer sku="S37689">
       <model> | Рубашка-белые-сбоку сборка | П:9 | Р:XXL</model>
@@ -113,7 +113,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>22900.00</price>
+      <price>22900</price>
     </offer>
     <offer sku="Z40813">
       <model> | Сумка-черная | П:50 | Р:</model>
@@ -121,7 +121,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>35700.00</price>
+      <price>35700</price>
     </offer>
     <offer sku="Q92404">
       <model> | Труси | П:40 | Р:</model>
@@ -129,7 +129,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>65500.00</price>
+      <price>65500</price>
     </offer>
     <offer sku="C15920">
       <model> | Труси-женские-12шт-0.7дол | П:17 | Р:</model>
@@ -137,7 +137,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>22900.00</price>
+      <price>22900</price>
     </offer>
     <offer sku="U27563">
       <model> | Труси-женские-24шт-0.87дол | П:17 | Р:</model>
@@ -145,7 +145,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>30300.00</price>
+      <price>30300</price>
     </offer>
     <offer sku="V14051">
       <model> | Футболка белая сердечко | П:31-32 | Р:М</model>
@@ -153,7 +153,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>27300.00</price>
+      <price>27300</price>
     </offer>
     <offer sku="O70897">
       <model> | Юбка-джинсовая | П:9 | Р:34</model>
@@ -161,7 +161,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>23600.00</price>
+      <price>23600</price>
     </offer>
     <offer sku="L46327">
       <model> | Юбка-джинсовая | П:9 | Р:36</model>
@@ -169,7 +169,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>23600.00</price>
+      <price>23600</price>
     </offer>
     <offer sku="537709">
       <model> | Юбка-клетка | П:11 | Р:36</model>
@@ -177,7 +177,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>28500.00</price>
+      <price>28500</price>
     </offer>
     <offer sku="L89297">
       <model> | Юбка-черная прямая | П:9 | Р:36</model>
@@ -185,7 +185,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>31100.00</price>
+      <price>31100</price>
     </offer>
     <offer sku="S30830">
       <model>AGN | Брюки-бежев-зауженная | П:59 | Р:36</model>
@@ -193,7 +193,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>36600.00</price>
+      <price>36600</price>
     </offer>
     <offer sku="X78359">
       <model>AGN | Брюки-бежев-зауженная | П:59 | Р:38</model>
@@ -201,7 +201,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>36600.00</price>
+      <price>36600</price>
     </offer>
     <offer sku="T10578">
       <model>AGN | Брюки-бежев-зауженная | П:59 | Р:42</model>
@@ -209,7 +209,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>36600.00</price>
+      <price>36600</price>
     </offer>
     <offer sku="N98765">
       <model>AGN | Брюки-бежев-прямая | П:59 | Р:36</model>
@@ -217,7 +217,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>36600.00</price>
+      <price>36600</price>
     </offer>
     <offer sku="U64051">
       <model>AGN | Брюки-черные-прямая | П:59 | Р:36</model>
@@ -225,7 +225,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>36600.00</price>
+      <price>36600</price>
     </offer>
     <offer sku="T51114">
       <model>AGN | Брюки-черные-прямая | П:59 | Р:38</model>
@@ -233,7 +233,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>36600.00</price>
+      <price>36600</price>
     </offer>
     <offer sku="341986">
       <model>AGN | Брюки-черные-прямая | П:59 | Р:40</model>
@@ -241,7 +241,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>36600.00</price>
+      <price>36600</price>
     </offer>
     <offer sku="C79406">
       <model>Aluch | Платье-вискоза-оранжев- | П:59 | Р:42</model>
@@ -249,7 +249,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>55500.00</price>
+      <price>55500</price>
     </offer>
     <offer sku="B44397">
       <model>Aras | Кофта с рисунком | П:17 | Р:42</model>
@@ -257,7 +257,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>23800.00</price>
+      <price>23800</price>
     </offer>
     <offer sku="J57329">
       <model>BGN | Топик-черный длин рукав | П:18-19 | Р:36</model>
@@ -265,7 +265,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>23800.00</price>
+      <price>23800</price>
     </offer>
     <offer sku="D71400">
       <model>BGN | Топик-черный длин рукав без ничего | П:18-19 | Р:36</model>
@@ -273,7 +273,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>23800.00</price>
+      <price>23800</price>
     </offer>
     <offer sku="J14276">
       <model>BGN | Футболка-белая-фонарик | П:59 | Р:L</model>
@@ -281,7 +281,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>28200.00</price>
+      <price>28200</price>
     </offer>
     <offer sku="T79946">
       <model>BGN | Футболка-белая-фонарик | П:59 | Р:S</model>
@@ -289,7 +289,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>28200.00</price>
+      <price>28200</price>
     </offer>
     <offer sku="N69616">
       <model>BGN | Футболка-белая-фонарик | П:59 | Р:XL</model>
@@ -297,7 +297,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>28200.00</price>
+      <price>28200</price>
     </offer>
     <offer sku="Z68950">
       <model>BGN | Футболка-черная-фонарик | П:59 | Р:M</model>
@@ -305,7 +305,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>28200.00</price>
+      <price>28200</price>
     </offer>
     <offer sku="D41193">
       <model>BGN | Футболка-черная-фонарик | П:59 | Р:S</model>
@@ -313,7 +313,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>28200.00</price>
+      <price>28200</price>
     </offer>
     <offer sku="297768">
       <model>BGN | Футболка-черная-фонарик | П:59 | Р:XL</model>
@@ -321,7 +321,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>28200.00</price>
+      <price>28200</price>
     </offer>
     <offer sku="O72729">
       <model>BGN | Юбка-белая-длинная | П:59 | Р:36</model>
@@ -329,7 +329,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>32400.00</price>
+      <price>32400</price>
     </offer>
     <offer sku="K29500">
       <model>BGN | Юбка-белая-длинная | П:59 | Р:38</model>
@@ -337,7 +337,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>32400.00</price>
+      <price>32400</price>
     </offer>
     <offer sku="W54038">
       <model>BGN | Юбка-коралловая-длинная | П:59 | Р:38</model>
@@ -345,7 +345,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>32400.00</price>
+      <price>32400</price>
     </offer>
     <offer sku="626901">
       <model>BGN | Юбка-хакки | П:25 | Р:42</model>
@@ -353,7 +353,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>27900.00</price>
+      <price>27900</price>
     </offer>
     <offer sku="I62516">
       <model>Biljana | Платье-белое-оранж цветок | П:55-56 | Р:42</model>
@@ -361,7 +361,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>53600.00</price>
+      <price>53600</price>
     </offer>
     <offer sku="R60404">
       <model>Biljana | Платье-белое-оранж цветок | П:55-56 | Р:48</model>
@@ -369,7 +369,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>53600.00</price>
+      <price>53600</price>
     </offer>
     <offer sku="I14637">
       <model>Biljana | Платье-зеленые-черный рисунок | П:50 | Р:48</model>
@@ -377,7 +377,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>36500.00</price>
+      <price>36500</price>
     </offer>
     <offer sku="F40309">
       <model>Biljana | Платье-черное ворот-тигр | П:41-42 | Р:44</model>
@@ -385,7 +385,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>47000.00</price>
+      <price>47000</price>
     </offer>
     <offer sku="G69196">
       <model>Blumese | Платье-лиловые | П:35 | Р:46</model>
@@ -393,7 +393,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>44700.00</price>
+      <price>44700</price>
     </offer>
     <offer sku="B99735">
       <model>Blumese | Платье-шифон-темно-зеленое | П:61 | Р:42</model>
@@ -401,7 +401,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>49500.00</price>
+      <price>49500</price>
     </offer>
     <offer sku="E76493">
       <model>Blumese | Платье-шифон-темно-зеленое | П:61 | Р:46</model>
@@ -409,7 +409,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>49500.00</price>
+      <price>49500</price>
     </offer>
     <offer sku="K53008">
       <model>Cliche | Блузка-красный цветок-галстук | П:51 | Р:36</model>
@@ -417,7 +417,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>36600.00</price>
+      <price>36600</price>
     </offer>
     <offer sku="A12947">
       <model>Cliche | Блузка-красный цветок-галстук | П:51 | Р:38</model>
@@ -425,7 +425,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>35200.00</price>
+      <price>35200</price>
     </offer>
     <offer sku="Y84211">
       <model>Cliche | Блузка-красный цветок-галстук | П:51 | Р:42</model>
@@ -433,7 +433,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>36000.00</price>
+      <price>36000</price>
     </offer>
     <offer sku="098321">
       <model>Cliche | Блузка-красный цветок-галстук | П:51 | Р:44</model>
@@ -441,7 +441,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>35200.00</price>
+      <price>35200</price>
     </offer>
     <offer sku="O18993">
       <model>Cliche | Кофта-белая-бежев-цветок | П:59 | Р:40</model>
@@ -449,7 +449,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>34800.00</price>
+      <price>34800</price>
     </offer>
     <offer sku="C38304">
       <model>Cliche | Кофта-белая-красный-цветок | П:59 | Р:36</model>
@@ -457,7 +457,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>34800.00</price>
+      <price>34800</price>
     </offer>
     <offer sku="I49633">
       <model>D-G | Футболка белая | П:31-32 | Р:3</model>
@@ -465,7 +465,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>25100.00</price>
+      <price>25100</price>
     </offer>
     <offer sku="K75658">
       <model>Dark | Двойка-белая-плессир юбкой | П:40 | Р:38</model>
@@ -473,7 +473,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>55400.00</price>
+      <price>55400</price>
     </offer>
     <offer sku="K26172">
       <model>Dark | Двойка-белая-плессир юбкой | П:40 | Р:40</model>
@@ -481,7 +481,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>55400.00</price>
+      <price>55400</price>
     </offer>
     <offer sku="G36928">
       <model>Dark | Двойка-белая-плессир юбкой | П:40 | Р:42</model>
@@ -489,7 +489,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>55400.00</price>
+      <price>55400</price>
     </offer>
     <offer sku="S50976">
       <model>Dark | Двойка-белая-плессир юбкой | П:40 | Р:44</model>
@@ -497,7 +497,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>55400.00</price>
+      <price>55400</price>
     </offer>
     <offer sku="K20211">
       <model>Design | Юбка-белая-ХБ | П:64 | Р:36</model>
@@ -505,7 +505,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>44200.00</price>
+      <price>44200</price>
     </offer>
     <offer sku="W72471">
       <model>Design | Юбка-белая-ХБ | П:64 | Р:42</model>
@@ -513,7 +513,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>44200.00</price>
+      <price>44200</price>
     </offer>
     <offer sku="N81363">
       <model>Destello | Двойка-брючная-блестящ-бургунди | П:53-54 | Р:1</model>
@@ -521,7 +521,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>51000.00</price>
+      <price>51000</price>
     </offer>
     <offer sku="Y50371">
       <model>Destello | Двойка-брючная-блестящ-бургунди | П:53-54 | Р:2</model>
@@ -529,7 +529,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>51000.00</price>
+      <price>51000</price>
     </offer>
     <offer sku="D84362">
       <model>Destello | Двойка-брючная-блестящ-бургунди | П:53-54 | Р:3</model>
@@ -537,7 +537,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>51000.00</price>
+      <price>51000</price>
     </offer>
     <offer sku="887419">
       <model>Destello | Двойка-брючная-блестящ-коричнев | П:53-54 | Р:1</model>
@@ -545,7 +545,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>51000.00</price>
+      <price>51000</price>
     </offer>
     <offer sku="X95253">
       <model>Destello | Двойка-брючная-блестящ-коричнев | П:53-54 | Р:2</model>
@@ -553,7 +553,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>51000.00</price>
+      <price>51000</price>
     </offer>
     <offer sku="587074">
       <model>Destello | Двойка-брючная-блестящ-коричнев | П:53-54 | Р:3</model>
@@ -561,7 +561,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>51000.00</price>
+      <price>51000</price>
     </offer>
     <offer sku="Y11404">
       <model>Destello | Двойка-брючная-блестящ-черная | П:53-54 | Р:1</model>
@@ -569,7 +569,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>51000.00</price>
+      <price>51000</price>
     </offer>
     <offer sku="K44216">
       <model>Destello | Двойка-брючная-блестящ-черная | П:53-54 | Р:2</model>
@@ -577,7 +577,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>51000.00</price>
+      <price>51000</price>
     </offer>
     <offer sku="Q26167">
       <model>Destello | Двойка-брючная-блестящ-черная | П:53-54 | Р:3</model>
@@ -585,7 +585,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>51000.00</price>
+      <price>51000</price>
     </offer>
     <offer sku="Q95485">
       <model>Egeline | Топик-белый | П:48 | Р:XL</model>
@@ -593,7 +593,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>26800.00</price>
+      <price>26800</price>
     </offer>
     <offer sku="P74365">
       <model>Egeline | Топик-красный | П:48 | Р:L</model>
@@ -601,7 +601,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>26800.00</price>
+      <price>26800</price>
     </offer>
     <offer sku="372043">
       <model>Egeline | Топик-красный | П:48 | Р:M</model>
@@ -609,7 +609,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>26800.00</price>
+      <price>26800</price>
     </offer>
     <offer sku="W82293">
       <model>Egeline | Топик-красный | П:48 | Р:XL</model>
@@ -617,7 +617,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>26800.00</price>
+      <price>26800</price>
     </offer>
     <offer sku="375974">
       <model>Egeline | Топик-темно-синий | П:48 | Р:XL</model>
@@ -625,7 +625,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>26800.00</price>
+      <price>26800</price>
     </offer>
     <offer sku="W87820">
       <model>Egeline | Топик-темно-синий | П:48 | Р:XXL</model>
@@ -633,7 +633,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>26800.00</price>
+      <price>26800</price>
     </offer>
     <offer sku="W45045">
       <model>Egeline | Топик-черный | П:55-56 | Р:XXXL</model>
@@ -641,7 +641,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>25600.00</price>
+      <price>25600</price>
     </offer>
     <offer sku="B41748">
       <model>Ella | Платье-длин-шифон-айвари | П:62 | Р:44</model>
@@ -649,7 +649,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>50800.00</price>
+      <price>50800</price>
     </offer>
     <offer sku="113194">
       <model>Ella | Платье-длин-шифон-айвари | П:62 | Р:46</model>
@@ -657,7 +657,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>50800.00</price>
+      <price>50800</price>
     </offer>
     <offer sku="M48524">
       <model>Ella | Платье-длин-шифон-айвари | П:62 | Р:48</model>
@@ -665,7 +665,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>50800.00</price>
+      <price>50800</price>
     </offer>
     <offer sku="F22794">
       <model>Ella | Платье-длин-шифон-голубой | П:62 | Р:36</model>
@@ -673,7 +673,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>48900.00</price>
+      <price>48900</price>
     </offer>
     <offer sku="G44449">
       <model>Ella | Платье-длин-шифон-ментол | П:62 | Р:42</model>
@@ -681,7 +681,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>50800.00</price>
+      <price>50800</price>
     </offer>
     <offer sku="E98267">
       <model>Ella | Платье-длин-шифон-ментол | П:62 | Р:44</model>
@@ -689,7 +689,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>50800.00</price>
+      <price>50800</price>
     </offer>
     <offer sku="G29286">
       <model>Ella | Платье-трикот-коричнев | П:53-54 | Р:36</model>
@@ -697,7 +697,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>37200.00</price>
+      <price>37200</price>
     </offer>
     <offer sku="W68773">
       <model>Ella | Платье-трикот-коричнев | П:53-54 | Р:38</model>
@@ -705,7 +705,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>37200.00</price>
+      <price>37200</price>
     </offer>
     <offer sku="864347">
       <model>Ella | Платье-трикот-коричнев | П:53-54 | Р:40</model>
@@ -713,7 +713,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>37200.00</price>
+      <price>37200</price>
     </offer>
     <offer sku="V67164">
       <model>Ella | Платье-трикот-коричнев | П:53-54 | Р:42</model>
@@ -721,7 +721,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>37200.00</price>
+      <price>37200</price>
     </offer>
     <offer sku="C16893">
       <model>Ella | Платье-трикот-коричнев | П:53-54 | Р:44</model>
@@ -729,7 +729,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>37200.00</price>
+      <price>37200</price>
     </offer>
     <offer sku="V98608">
       <model>Ella | Платье-трикот-коричнев | П:53-54 | Р:46</model>
@@ -737,7 +737,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>37200.00</price>
+      <price>37200</price>
     </offer>
     <offer sku="V26614">
       <model>Ella | Платье-трикот-коричнев | П:53-54 | Р:48</model>
@@ -745,7 +745,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>37200.00</price>
+      <price>37200</price>
     </offer>
     <offer sku="Q71281">
       <model>Estaline | Платье-бежевое-черные складки | П:57-58 | Р:36</model>
@@ -753,7 +753,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>46000.00</price>
+      <price>46000</price>
     </offer>
     <offer sku="R22832">
       <model>Estaline | Платье-бежевое-черные складки | П:57-58 | Р:38</model>
@@ -761,7 +761,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>46000.00</price>
+      <price>46000</price>
     </offer>
     <offer sku="S48017">
       <model>Exxpose | Платье-желтый-цветаст-ХБ | П:69 | Р:36</model>
@@ -769,7 +769,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>38600.00</price>
+      <price>38600</price>
     </offer>
     <offer sku="Y10861">
       <model>Exxpose | Платье-желтый-цветаст-ХБ | П:69 | Р:38</model>
@@ -777,7 +777,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>38600.00</price>
+      <price>38600</price>
     </offer>
     <offer sku="T84641">
       <model>Exxpose | Платье-желтый-цветаст-ХБ | П:69 | Р:40</model>
@@ -785,7 +785,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>38600.00</price>
+      <price>38600</price>
     </offer>
     <offer sku="X49966">
       <model>Exxpose | Платье-розовый-цветаст-ХБ | П:69 | Р:36</model>
@@ -793,7 +793,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>38600.00</price>
+      <price>38600</price>
     </offer>
     <offer sku="L53998">
       <model>Exxpose | Платье-розовый-цветаст-ХБ | П:69 | Р:38</model>
@@ -801,7 +801,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>38600.00</price>
+      <price>38600</price>
     </offer>
     <offer sku="J45806">
       <model>Exxpose | Платье-розовый-цветаст-ХБ | П:69 | Р:40</model>
@@ -809,7 +809,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>38600.00</price>
+      <price>38600</price>
     </offer>
     <offer sku="Q27567">
       <model>Eze | Двойка-спортив-велюр-черный | П:49 | Р:40</model>
@@ -817,7 +817,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>43500.00</price>
+      <price>43500</price>
     </offer>
     <offer sku="W89617">
       <model>Eze | Двойка-спортив-велюр-черный | П:49 | Р:44</model>
@@ -825,7 +825,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>43500.00</price>
+      <price>43500</price>
     </offer>
     <offer sku="Q55388">
       <model>Ferwente | Платье-белое-гармошка | П:59 | Р:44</model>
@@ -833,7 +833,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>31800.00</price>
+      <price>31800</price>
     </offer>
     <offer sku="I16665">
       <model>Ferwente | Платье-белое-гармошка | П:59 | Р:46</model>
@@ -841,7 +841,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>31800.00</price>
+      <price>31800</price>
     </offer>
     <offer sku="L10105">
       <model>Fever | Брюки-молочные | П:2 | Р:38</model>
@@ -849,7 +849,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>38800.00</price>
+      <price>38800</price>
     </offer>
     <offer sku="425719">
       <model>Gio | Двойка-велюр-бургундый | П:45-46-47 | Р:46</model>
@@ -857,7 +857,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>58300.00</price>
+      <price>58300</price>
     </offer>
     <offer sku="580745">
       <model>Gio | Двойка-велюр-бургундый | П:45-46-47 | Р:48</model>
@@ -865,7 +865,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>58300.00</price>
+      <price>58300</price>
     </offer>
     <offer sku="R44510">
       <model>Gio | Двойка-велюр-бургундый | П:49 | Р:38</model>
@@ -873,7 +873,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>56600.00</price>
+      <price>56600</price>
     </offer>
     <offer sku="732725">
       <model>Gio | Двойка-велюр-изумруд | П:48 | Р:48</model>
@@ -881,7 +881,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>57700.00</price>
+      <price>57700</price>
     </offer>
     <offer sku="P38854">
       <model>Gio | Двойка-велюр-террокотовый | П:45-46-47 | Р:48</model>
@@ -889,7 +889,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>58300.00</price>
+      <price>58300</price>
     </offer>
     <offer sku="S46174">
       <model>Gio | Двойка-юб-велюр-бургундый | П:45-46-47 | Р:42</model>
@@ -897,7 +897,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>58300.00</price>
+      <price>58300</price>
     </offer>
     <offer sku="L92836">
       <model>Gio | Двойка-юб-велюр-бургундый | П:49 | Р:36</model>
@@ -905,7 +905,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>56600.00</price>
+      <price>56600</price>
     </offer>
     <offer sku="T33496">
       <model>Gio | Двойка-юб-велюр-террокотовый | П:49 | Р:36</model>
@@ -913,7 +913,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>56600.00</price>
+      <price>56600</price>
     </offer>
     <offer sku="C89976">
       <model>Gio | Двойка-юбочн-длин-рукав-белая | П:63 | Р:48</model>
@@ -921,7 +921,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>61500.00</price>
+      <price>61500</price>
     </offer>
     <offer sku="W26960">
       <model>Gio | Двойка-юбочная-белая | П:59 | Р:48</model>
@@ -929,7 +929,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>67000.00</price>
+      <price>67000</price>
     </offer>
     <offer sku="C34132">
       <model>Gio | Двойка-юбочная-сирень | П:59 | Р:48</model>
@@ -937,7 +937,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>67000.00</price>
+      <price>67000</price>
     </offer>
     <offer sku="R69319">
       <model>Gio | Платье-белое-ХБ | П:66 | Р:36</model>
@@ -945,7 +945,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>61900.00</price>
+      <price>61900</price>
     </offer>
     <offer sku="N40664">
       <model>Gio | Платье-белое-ХБ | П:66 | Р:38</model>
@@ -953,7 +953,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>61900.00</price>
+      <price>61900</price>
     </offer>
     <offer sku="Q22763">
       <model>Gizziline | Блузка-белая с черной завязкой | П:40 | Р:36</model>
@@ -961,7 +961,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>28000.00</price>
+      <price>28000</price>
     </offer>
     <offer sku="W16367">
       <model>Gizziline | Блузка-белая с черной завязкой | П:40 | Р:38</model>
@@ -969,7 +969,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>28000.00</price>
+      <price>28000</price>
     </offer>
     <offer sku="J54060">
       <model>Gizziline | Блузка-белая с черной завязкой | П:40 | Р:48</model>
@@ -977,7 +977,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>28600.00</price>
+      <price>28600</price>
     </offer>
     <offer sku="G56039">
       <model>Gizzline | Рубашка-белая-черная полоска-ХБ | П:67 | Р:36</model>
@@ -985,7 +985,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>27200.00</price>
+      <price>27200</price>
     </offer>
     <offer sku="Q64065">
       <model>Gizzline | Рубашка-белая-черная полоска-ХБ | П:67 | Р:36</model>
@@ -993,7 +993,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>27200.00</price>
+      <price>27200</price>
     </offer>
     <offer sku="K18197">
       <model>Gizzline | Рубашка-белая-черная полоска-ХБ | П:67 | Р:38</model>
@@ -1001,7 +1001,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>27200.00</price>
+      <price>27200</price>
     </offer>
     <offer sku="O99254">
       <model>Gumanize | Двойка-велюр-изумруд | П:51 | Р:42</model>
@@ -1009,7 +1009,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>38200.00</price>
+      <price>38200</price>
     </offer>
     <offer sku="I49780">
       <model>Gumanize | Двойка-велюр-изумруд | П:51 | Р:48</model>
@@ -1017,7 +1017,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>38200.00</price>
+      <price>38200</price>
     </offer>
     <offer sku="T78186">
       <model>Gumanize | Двойка-велюр-черный | П:51 | Р:42</model>
@@ -1025,7 +1025,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>39200.00</price>
+      <price>39200</price>
     </offer>
     <offer sku="880076">
       <model>Gumanize | Платье вниз плесси-имитац | П:36-37 | Р:46</model>
@@ -1033,7 +1033,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>52400.00</price>
+      <price>52400</price>
     </offer>
     <offer sku="G16621">
       <model>Gumanize | Платье-белое | П:35 | Р:46</model>
@@ -1041,7 +1041,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>48200.00</price>
+      <price>48200</price>
     </offer>
     <offer sku="C98078">
       <model>Hermia | Двойка плесси юбкой-коричн-под кожи | П:52 | Р:44</model>
@@ -1049,7 +1049,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>36000.00</price>
+      <price>36000</price>
     </offer>
     <offer sku="987410">
       <model>Hermia | Двойка плесси юбкой-коричн-под кожи | П:52 | Р:48</model>
@@ -1057,7 +1057,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>36000.00</price>
+      <price>36000</price>
     </offer>
     <offer sku="C56983">
       <model>Hermia | Двойка плесси юбкой-черные под кожи | П:52 | Р:46</model>
@@ -1065,7 +1065,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>36000.00</price>
+      <price>36000</price>
     </offer>
     <offer sku="V68638">
       <model>Hermia | Двойка плесси юбкой-черные под кожи | П:52 | Р:48</model>
@@ -1073,7 +1073,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>36000.00</price>
+      <price>36000</price>
     </offer>
     <offer sku="C39733">
       <model>Idyl | Блузка шифон-желтый цветок | П:64 | Р:36</model>
@@ -1081,7 +1081,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>38800.00</price>
+      <price>38800</price>
     </offer>
     <offer sku="X33299">
       <model>Idyl | Блузка шифон-желтый цветок | П:64 | Р:38</model>
@@ -1089,7 +1089,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>38800.00</price>
+      <price>38800</price>
     </offer>
     <offer sku="Q88052">
       <model>Idyl | Блузка шифон-розов | П:64 | Р:36</model>
@@ -1097,7 +1097,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>38800.00</price>
+      <price>38800</price>
     </offer>
     <offer sku="294947">
       <model>Idyl | Блузка шифон-розов | П:64 | Р:38</model>
@@ -1105,7 +1105,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>38800.00</price>
+      <price>38800</price>
     </offer>
     <offer sku="W74664">
       <model>Idylist | Блузка-цв-зелен-корот.рукав | П:36-37 | Р:38</model>
@@ -1113,7 +1113,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>35100.00</price>
+      <price>35100</price>
     </offer>
     <offer sku="U10619">
       <model>Izzet jandan | Пиджак-белый | П:11 | Р:36</model>
@@ -1121,7 +1121,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>34700.00</price>
+      <price>34700</price>
     </offer>
     <offer sku="F44321">
       <model>Jeanne darc | Футболки-зеленые | П:6 | Р:36</model>
@@ -1129,7 +1129,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>28300.00</price>
+      <price>28300</price>
     </offer>
     <offer sku="H71910">
       <model>Kadelli | Двойка с прямой юбкой-темносиние | П:40 | Р:36</model>
@@ -1137,7 +1137,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>54500.00</price>
+      <price>54500</price>
     </offer>
     <offer sku="U95659">
       <model>Kadelli | Двойка с прямой юбкой-темносиние | П:40 | Р:42</model>
@@ -1145,7 +1145,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>51200.00</price>
+      <price>51200</price>
     </offer>
     <offer sku="125963">
       <model>Kadelli | Двойка с прямой юбкой-темносиние | П:40 | Р:42</model>
@@ -1153,7 +1153,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>51200.00</price>
+      <price>51200</price>
     </offer>
     <offer sku="J11342">
       <model>Kadelli | Двойка с прямой юбкой-темносиние | П:40 | Р:44</model>
@@ -1161,7 +1161,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>51200.00</price>
+      <price>51200</price>
     </offer>
     <offer sku="L18796">
       <model>Kadelli | Двойка с прямой юбкой-темносиние | П:40 | Р:48</model>
@@ -1169,7 +1169,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>51200.00</price>
+      <price>51200</price>
     </offer>
     <offer sku="692910">
       <model>Kadelli | Прямая юбка-т/син | П:40 | Р:40</model>
@@ -1177,7 +1177,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>34500.00</price>
+      <price>34500</price>
     </offer>
     <offer sku="I17947">
       <model>Kazee | Кофта-трикотажн-малина | П:48 | Р:M</model>
@@ -1185,7 +1185,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>31000.00</price>
+      <price>31000</price>
     </offer>
     <offer sku="X28728">
       <model>Kazee | Кофта-трикотажн-малина | П:48 | Р:S</model>
@@ -1193,7 +1193,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>31000.00</price>
+      <price>31000</price>
     </offer>
     <offer sku="Z36945">
       <model>Kazee | Кофта-трикотажная-сирень | П:49 | Р:XL</model>
@@ -1201,7 +1201,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>31600.00</price>
+      <price>31600</price>
     </offer>
     <offer sku="C85091">
       <model>Kokart | Блузка-черная рукав шифон | П:52 | Р:36</model>
@@ -1209,7 +1209,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>36000.00</price>
+      <price>36000</price>
     </offer>
     <offer sku="N71604">
       <model>Kokart | Блузка-черная рукав шифон | П:52 | Р:40</model>
@@ -1217,7 +1217,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>36000.00</price>
+      <price>36000</price>
     </offer>
     <offer sku="H84776">
       <model>Kokart | Блузка-черная рукав шифон | П:52 | Р:42</model>
@@ -1225,7 +1225,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>36000.00</price>
+      <price>36000</price>
     </offer>
     <offer sku="H24325">
       <model>La Parte | Платье гефюр верх. плесси вниз | П:38-39 | Р:40</model>
@@ -1233,7 +1233,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>69000.00</price>
+      <price>69000</price>
     </offer>
     <offer sku="H91975">
       <model>La Sibella | Двойка с черной юбкой, верх белые | П:45-46-47 | Р:48</model>
@@ -1241,7 +1241,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>56000.00</price>
+      <price>56000</price>
     </offer>
     <offer sku="G96763">
       <model>Lady Form | Платье черное с накидкой-тигр | П:43-44 | Р:42</model>
@@ -1249,7 +1249,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>61000.00</price>
+      <price>61000</price>
     </offer>
     <offer sku="R38902">
       <model>Lady Form | Платье-белое-черный цветок | П:38-39 | Р:36</model>
@@ -1257,7 +1257,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>49400.00</price>
+      <price>49400</price>
     </offer>
     <offer sku="794929">
       <model>Lady Form | Платье-белое-черный цветок | П:38-39 | Р:38</model>
@@ -1265,7 +1265,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>49400.00</price>
+      <price>49400</price>
     </offer>
     <offer sku="479230">
       <model>Lady Form | Платье-белое-черный цветок | П:38-39 | Р:42</model>
@@ -1273,7 +1273,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>49400.00</price>
+      <price>49400</price>
     </offer>
     <offer sku="W73749">
       <model>Lady Form | Платье-белое-черный цветок-лен | П:61 | Р:42</model>
@@ -1281,7 +1281,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>56500.00</price>
+      <price>56500</price>
     </offer>
     <offer sku="712092">
       <model>Lady Form | Платье-белое-черный цветок-лен | П:61 | Р:44</model>
@@ -1289,7 +1289,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>56500.00</price>
+      <price>56500</price>
     </offer>
     <offer sku="S40824">
       <model>Lady Form | Платье-белое-черный цветок-лен | П:61 | Р:48</model>
@@ -1297,7 +1297,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>56500.00</price>
+      <price>56500</price>
     </offer>
     <offer sku="G77486">
       <model>Lady Form | Платье-вечерн-бабочка-айвари | П:61 | Р:36</model>
@@ -1305,7 +1305,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>50100.00</price>
+      <price>50100</price>
     </offer>
     <offer sku="I47234">
       <model>Lady Form | Платье-вечерн-бабочка-айвари | П:61 | Р:38</model>
@@ -1313,7 +1313,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>50100.00</price>
+      <price>50100</price>
     </offer>
     <offer sku="928803">
       <model>Lady Form | Платье-вечерн-бабочка-айвари | П:70 | Р:42</model>
@@ -1321,7 +1321,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>50600.00</price>
+      <price>50600</price>
     </offer>
     <offer sku="X70597">
       <model>Lady Form | Платье-вечерн-бабочка-айвари | П:70 | Р:44</model>
@@ -1329,7 +1329,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>50600.00</price>
+      <price>50600</price>
     </offer>
     <offer sku="M87559">
       <model>Lady Form | Платье-вечерн-бабочка-айвари | П:70 | Р:46</model>
@@ -1337,7 +1337,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>50600.00</price>
+      <price>50600</price>
     </offer>
     <offer sku="G38207">
       <model>Lady Form | Платье-вечерн-бабочка-айвари | П:70 | Р:48</model>
@@ -1345,7 +1345,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>50600.00</price>
+      <price>50600</price>
     </offer>
     <offer sku="G98564">
       <model>Lady Form | Платье-вечерн-бабочка-голубой | П:62 | Р:36</model>
@@ -1353,7 +1353,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>50800.00</price>
+      <price>50800</price>
     </offer>
     <offer sku="V20024">
       <model>Lady Form | Платье-вечерн-бабочка-голубой | П:70 | Р:42</model>
@@ -1361,7 +1361,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>50600.00</price>
+      <price>50600</price>
     </offer>
     <offer sku="E31760">
       <model>Lady Form | Платье-вечерн-бабочка-голубой | П:70 | Р:44</model>
@@ -1369,7 +1369,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>50600.00</price>
+      <price>50600</price>
     </offer>
     <offer sku="R15454">
       <model>Lady Form | Платье-вечерн-бабочка-голубой | П:70 | Р:46</model>
@@ -1377,7 +1377,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>50600.00</price>
+      <price>50600</price>
     </offer>
     <offer sku="T87328">
       <model>Lady Form | Платье-вечерн-бабочка-голубой | П:70 | Р:48</model>
@@ -1385,7 +1385,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>50600.00</price>
+      <price>50600</price>
     </offer>
     <offer sku="J17239">
       <model>Lady Form | Платье-оранжев-цветы | П:36-37 | Р:36</model>
@@ -1393,7 +1393,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>48800.00</price>
+      <price>48800</price>
     </offer>
     <offer sku="541886">
       <model>Lady Form | Платье-оранжев-цветы | П:36-37 | Р:38</model>
@@ -1401,7 +1401,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>48800.00</price>
+      <price>48800</price>
     </offer>
     <offer sku="G71028">
       <model>Lady Form | Платье-оранжев-цветы | П:36-37 | Р:40</model>
@@ -1409,7 +1409,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>48800.00</price>
+      <price>48800</price>
     </offer>
     <offer sku="H70507">
       <model>Lady Form | Платье-розовые цветы | П:36-37 | Р:36</model>
@@ -1417,7 +1417,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>48800.00</price>
+      <price>48800</price>
     </offer>
     <offer sku="E82559">
       <model>Lady Form | Платье-розовые цветы | П:36-37 | Р:38</model>
@@ -1425,7 +1425,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>48800.00</price>
+      <price>48800</price>
     </offer>
     <offer sku="C20870">
       <model>Lady Form | Платье-розовые цветы | П:36-37 | Р:40</model>
@@ -1433,7 +1433,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>48800.00</price>
+      <price>48800</price>
     </offer>
     <offer sku="U76211">
       <model>Lafame | Платье-индиго | П:22 | Р:36</model>
@@ -1441,7 +1441,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>37500.00</price>
+      <price>37500</price>
     </offer>
     <offer sku="R41333">
       <model>Lafame | Платье-черное-короткие | П:21 | Р:38</model>
@@ -1449,7 +1449,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>37500.00</price>
+      <price>37500</price>
     </offer>
     <offer sku="T92684">
       <model>Lasagrada | Куртка Lasagrada-визон | П:43-44 | Р:44</model>
@@ -1457,7 +1457,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>71100.00</price>
+      <price>71100</price>
     </offer>
     <offer sku="134872">
       <model>Lasagrada | Куртка Lasagrada-черные | П:43-44 | Р:44</model>
@@ -1465,7 +1465,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>71100.00</price>
+      <price>71100</price>
     </offer>
     <offer sku="852004">
       <model>Lasagrada | Куртка-бежевый-повтор | П:26 | Р:44</model>
@@ -1473,7 +1473,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>60800.00</price>
+      <price>60800</price>
     </offer>
     <offer sku="J66971">
       <model>Lasagrada | Куртка-короткая-черная-Lasagrada | П:40 | Р:44</model>
@@ -1481,7 +1481,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>70200.00</price>
+      <price>70200</price>
     </offer>
     <offer sku="T55248">
       <model>Lazzuri | Двойка-юбочная-лен | П:61 | Р:44</model>
@@ -1489,7 +1489,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>53900.00</price>
+      <price>53900</price>
     </offer>
     <offer sku="G82834">
       <model>Lazzuri | Платье-кимоно с желтой накидкой-лен | П:71 | Р:42</model>
@@ -1497,7 +1497,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>57200.00</price>
+      <price>57200</price>
     </offer>
     <offer sku="221212">
       <model>Lazzuri | Платье-кимоно с желтой накидкой-лен | П:71 | Р:42</model>
@@ -1505,7 +1505,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>57200.00</price>
+      <price>57200</price>
     </offer>
     <offer sku="F11020">
       <model>Lazzuri | Платье-кимоно с желтой накидкой-лен | П:71 | Р:44</model>
@@ -1513,7 +1513,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>57200.00</price>
+      <price>57200</price>
     </offer>
     <offer sku="072066">
       <model>Lazzuri | Платье-кимоно с желтой накидкой-лен | П:71 | Р:48</model>
@@ -1521,7 +1521,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>57200.00</price>
+      <price>57200</price>
     </offer>
     <offer sku="E91270">
       <model>Lilium | Двойка-юбочная-розовая-тойский | П:59 | Р:38</model>
@@ -1529,7 +1529,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>65800.00</price>
+      <price>65800</price>
     </offer>
     <offer sku="H81438">
       <model>Lilium | Двойка-юбочная-розовая-тойский | П:59 | Р:40</model>
@@ -1537,7 +1537,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>65800.00</price>
+      <price>65800</price>
     </offer>
     <offer sku="744714">
       <model>Lilium | Платье-халат с черный цветок | П:4 | Р:40</model>
@@ -1545,7 +1545,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>53200.00</price>
+      <price>53200</price>
     </offer>
     <offer sku="Q34078">
       <model>Lilium | Платье-халат с черный цветок | П:4 | Р:42</model>
@@ -1553,7 +1553,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>50600.00</price>
+      <price>50600</price>
     </offer>
     <offer sku="Z98037">
       <model>Magro | Американка-электрик | П:51 | Р:36</model>
@@ -1561,7 +1561,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>26200.00</price>
+      <price>26200</price>
     </offer>
     <offer sku="417897">
       <model>Magro | Американка-электрик | П:51 | Р:38</model>
@@ -1569,7 +1569,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>25700.00</price>
+      <price>25700</price>
     </offer>
     <offer sku="I14093">
       <model>Magro | Американка-электрик | П:51 | Р:40</model>
@@ -1577,7 +1577,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>25700.00</price>
+      <price>25700</price>
     </offer>
     <offer sku="O93335">
       <model>Magro | Платье черное с длин рукав | П:52 | Р:42</model>
@@ -1585,7 +1585,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>48600.00</price>
+      <price>48600</price>
     </offer>
     <offer sku="F28130">
       <model>Magro | Платье черное с длин рукав | П:52 | Р:46</model>
@@ -1593,7 +1593,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>48600.00</price>
+      <price>48600</price>
     </offer>
     <offer sku="R56604">
       <model>Magro | Платье черное с длин рукав | П:52 | Р:48</model>
@@ -1601,7 +1601,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>48600.00</price>
+      <price>48600</price>
     </offer>
     <offer sku="Q95396">
       <model>Magro | Платье-ХБ-бабочка-айвари | П:61 | Р:44</model>
@@ -1609,7 +1609,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>52200.00</price>
+      <price>52200</price>
     </offer>
     <offer sku="N80393">
       <model>Magro | Платье-ХБ-бабочка-айвари | П:63 | Р:42</model>
@@ -1617,7 +1617,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>52700.00</price>
+      <price>52700</price>
     </offer>
     <offer sku="B82790">
       <model>Magro | Платье-ХБ-бабочка-айвари | П:63 | Р:48</model>
@@ -1625,7 +1625,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>52700.00</price>
+      <price>52700</price>
     </offer>
     <offer sku="L15765">
       <model>Magro | Рубашка-белые-Магро-валан-без пугов | П:9 | Р:36</model>
@@ -1633,7 +1633,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>32300.00</price>
+      <price>32300</price>
     </offer>
     <offer sku="Z22323">
       <model>Magro | Рубашка-белые-Магро-валан-без пугов | П:9 | Р:38</model>
@@ -1641,7 +1641,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>31200.00</price>
+      <price>31200</price>
     </offer>
     <offer sku="Q81220">
       <model>Magro | Рубашка-белые-Магро-валан-без пугов | П:9 | Р:40</model>
@@ -1649,7 +1649,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>31200.00</price>
+      <price>31200</price>
     </offer>
     <offer sku="W82975">
       <model>Magro | Рубашка-белые-Магро-валан-без пугов | П:9 | Р:42</model>
@@ -1657,7 +1657,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>31200.00</price>
+      <price>31200</price>
     </offer>
     <offer sku="E72487">
       <model>Magro | Спортивный костюм-двойка, визон (М2043) | П:72 | Р:36</model>
@@ -1665,7 +1665,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>65000.00</price>
+      <price>65000</price>
     </offer>
     <offer sku="U14904">
       <model>Magro | Спортивный костюм-двойка, визон (М2043) | П:72 | Р:38</model>
@@ -1673,7 +1673,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>65000.00</price>
+      <price>65000</price>
     </offer>
     <offer sku="O84645">
       <model>Magro | Спортивный костюм-двойка, визон (М2043) | П:72 | Р:40</model>
@@ -1681,7 +1681,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>65000.00</price>
+      <price>65000</price>
     </offer>
     <offer sku="X51281">
       <model>Magro | Спортивный костюм-двойка, визон (М2043) | П:72 | Р:42</model>
@@ -1689,7 +1689,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>65000.00</price>
+      <price>65000</price>
     </offer>
     <offer sku="2570257342">
       <model>Marcamec | Двойка юбочная, бежевая (257025) | П:73 | Р:42</model>
@@ -1697,7 +1697,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>65500.00</price>
+      <price>65500</price>
     </offer>
     <offer sku="2570257344">
       <model>Marcamec | Двойка юбочная, бежевая (257025) | П:73 | Р:44</model>
@@ -1705,7 +1705,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>65500.00</price>
+      <price>65500</price>
     </offer>
     <offer sku="2570257346">
       <model>Marcamec | Двойка юбочная, бежевая (257025) | П:73 | Р:46</model>
@@ -1713,7 +1713,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>65500.00</price>
+      <price>65500</price>
     </offer>
     <offer sku="2570257348">
       <model>Marcamec | Двойка юбочная, бежевая (257025) | П:73 | Р:48</model>
@@ -1721,7 +1721,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>65500.00</price>
+      <price>65500</price>
     </offer>
     <offer sku="630560">
       <model>Mardi | Спортив-двойка-велюр-коричн | П:50 | Р:46</model>
@@ -1729,7 +1729,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>44800.00</price>
+      <price>44800</price>
     </offer>
     <offer sku="T45421">
       <model>Mare Sole | Пиджак -коричневый с железкой | П:41-42 | Р:36</model>
@@ -1737,7 +1737,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>44500.00</price>
+      <price>44500</price>
     </offer>
     <offer sku="K44997">
       <model>Mare Sole | Пиджак -коричневый с железкой | П:41-42 | Р:38</model>
@@ -1745,7 +1745,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>42300.00</price>
+      <price>42300</price>
     </offer>
     <offer sku="N74340">
       <model>Mare Sole | Пиджак -коричневый с железкой | П:41-42 | Р:46</model>
@@ -1753,7 +1753,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>42900.00</price>
+      <price>42900</price>
     </offer>
     <offer sku="L53481">
       <model>Mare Sole | Пиджак -коричневый с железкой | П:41-42 | Р:48</model>
@@ -1761,7 +1761,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>42900.00</price>
+      <price>42900</price>
     </offer>
     <offer sku="Z69621">
       <model>Mare Sole | Пиджак с железкой-Кэмел | П:41-42 | Р:36</model>
@@ -1769,7 +1769,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>41100.00</price>
+      <price>41100</price>
     </offer>
     <offer sku="N25852">
       <model>Mare Sole | Пиджак-белый | П:22 | Р:36</model>
@@ -1777,7 +1777,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>38900.00</price>
+      <price>38900</price>
     </offer>
     <offer sku="Z75360">
       <model>Mare Sole | Пиджак-черный | П:20 | Р:36</model>
@@ -1785,7 +1785,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>39000.00</price>
+      <price>39000</price>
     </offer>
     <offer sku="C97256">
       <model>Mascioni | Платье двойка-верх черный | П:53-54 | Р:3</model>
@@ -1793,7 +1793,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>53600.00</price>
+      <price>53600</price>
     </offer>
     <offer sku="P15821">
       <model>Mascioni | Платье-коричневое-замок | П:53-54 | Р:1</model>
@@ -1801,7 +1801,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>50300.00</price>
+      <price>50300</price>
     </offer>
     <offer sku="V44165">
       <model>Mascioni | Платье-коричневое-замок | П:53-54 | Р:3</model>
@@ -1809,7 +1809,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>50300.00</price>
+      <price>50300</price>
     </offer>
     <offer sku="T27901">
       <model>Mascioni | Платье-черное-замок | П:53-54 | Р:2</model>
@@ -1817,7 +1817,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>50300.00</price>
+      <price>50300</price>
     </offer>
     <offer sku="W83991">
       <model>Mascioni | Платье-черное-замок-большемерка | П:55-56 | Р:3</model>
@@ -1825,7 +1825,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>49700.00</price>
+      <price>49700</price>
     </offer>
     <offer sku="H86174">
       <model>Mira Mia | Блузка-корот рукав-красная | П:41-42 | Р:38</model>
@@ -1833,7 +1833,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>35100.00</price>
+      <price>35100</price>
     </offer>
     <offer sku="K28440">
       <model>Mira Mia | Кофта-желтое | П:34 | Р:40</model>
@@ -1841,7 +1841,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>27400.00</price>
+      <price>27400</price>
     </offer>
     <offer sku="F79644">
       <model>Mira Mia | Накидка-бомбер-коричневый | П:59 | Р:42</model>
@@ -1849,7 +1849,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>42700.00</price>
+      <price>42700</price>
     </offer>
     <offer sku="P43216">
       <model>Mira Mia | Накидка-бомбер-коричневый | П:59 | Р:46</model>
@@ -1857,7 +1857,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>42700.00</price>
+      <price>42700</price>
     </offer>
     <offer sku="I75675">
       <model>Mira Mia | Накидка-бомбер-коричневый | П:59 | Р:48</model>
@@ -1865,7 +1865,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>42700.00</price>
+      <price>42700</price>
     </offer>
     <offer sku="G27840">
       <model>Mira Mia | Накидка-бомбер-хакки | П:59 | Р:36</model>
@@ -1873,7 +1873,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>42700.00</price>
+      <price>42700</price>
     </offer>
     <offer sku="G75546">
       <model>Mira Mia | Накидка-бомбер-хакки | П:59 | Р:38</model>
@@ -1881,7 +1881,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>42700.00</price>
+      <price>42700</price>
     </offer>
     <offer sku="335895">
       <model>Mira Mia | Накидка-бомбер-хакки | П:59 | Р:42</model>
@@ -1889,7 +1889,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>42700.00</price>
+      <price>42700</price>
     </offer>
     <offer sku="V22277">
       <model>Mira Mia | Топик-красный-черн,цветок | П:40 | Р:38</model>
@@ -1897,7 +1897,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>32200.00</price>
+      <price>32200</price>
     </offer>
     <offer sku="J29809">
       <model>Mira Mia | Топик-черный-кимоно | П:40 | Р:38</model>
@@ -1905,7 +1905,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>31600.00</price>
+      <price>31600</price>
     </offer>
     <offer sku="T49205">
       <model>Mira Mia | Юбка-коричневые с вырезом | П:40 | Р:36</model>
@@ -1913,7 +1913,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>35700.00</price>
+      <price>35700</price>
     </offer>
     <offer sku="A73811">
       <model>Mira Mia | Юбка-черная-кожа | П:52 | Р:36</model>
@@ -1921,7 +1921,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>37300.00</price>
+      <price>37300</price>
     </offer>
     <offer sku="K63254">
       <model>Mix Gala | Двойка с черной юбкой | П:52 | Р:44</model>
@@ -1929,7 +1929,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>55000.00</price>
+      <price>55000</price>
     </offer>
     <offer sku="Q77653">
       <model>Mix Gala | Двойка с черной юбкой | П:52 | Р:48</model>
@@ -1937,7 +1937,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>55000.00</price>
+      <price>55000</price>
     </offer>
     <offer sku="N63668">
       <model>Moncheri | Платье дл.рукав-трикот-зелен | П:48 | Р:36</model>
@@ -1945,7 +1945,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>43500.00</price>
+      <price>43500</price>
     </offer>
     <offer sku="832342">
       <model>Movies | Брюки белые зауженные-креп | П:36-37 | Р:36</model>
@@ -1953,7 +1953,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>29200.00</price>
+      <price>29200</price>
     </offer>
     <offer sku="W92417">
       <model>My Sual | Платье с рубашкой розовые-лен | П:31-32 | Р:36</model>
@@ -1961,7 +1961,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>55400.00</price>
+      <price>55400</price>
     </offer>
     <offer sku="X95762">
       <model>My Sual | Рубашка-лен | П:31-32 | Р:42</model>
@@ -1969,7 +1969,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>37700.00</price>
+      <price>37700</price>
     </offer>
     <offer sku="T75900">
       <model>My Sual | Рубашка-лен-My Sual | П:31-32 | Р:38</model>
@@ -1977,7 +1977,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>5000.00</price>
+      <price>5000</price>
     </offer>
     <offer sku="F58553">
       <model>My Sual | Рубашка-лен-белая | П:31-32 | Р:46</model>
@@ -1985,7 +1985,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>29800.00</price>
+      <price>29800</price>
     </offer>
     <offer sku="V67456">
       <model>My Sual | Рубашка-лен-белая | П:31-32 | Р:48</model>
@@ -1993,7 +1993,7 @@
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>29800.00</price>
+      <price>29800</price>
     </offer>
     <offer sku="K85778">
       <model>My Twins | Двойка-платье-полос накид-коричн | П:48 | Р:44</model>
@@ -2001,7 +2001,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>56000.00</price>
+      <price>56000</price>
     </offer>
   </offers>
 </kaspi_catalog>
