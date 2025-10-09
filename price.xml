@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-09 06:32:04" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-09 12:43:21" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Aliya Style</company>
   <merchantid>30375992</merchantid>
   <offers>
@@ -2583,7 +2583,7 @@
       <model>Piena | Платье черное трикотажное с коротким рукавом и белым воротником (6501) | П:72 | Р:1</model>
       <brand>Piena</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>48100</price>
     </offer>
@@ -3887,7 +3887,7 @@
       <model>Volente | Платье из крепа, голубое (2726) | П:72 | Р:42</model>
       <brand>Volente</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>40000</price>
     </offer>
