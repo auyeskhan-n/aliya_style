@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-16 06:31:38" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-16 12:45:23" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Aliya Style</company>
   <merchantid>30375992</merchantid>
   <offers>
@@ -1895,7 +1895,7 @@
       <model>Mira Mia | Топик-красный-черн,цветок | П:40 | Р:38</model>
       <brand>Mira Mia</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>32200</price>
     </offer>
@@ -1919,7 +1919,7 @@
       <model>Mira Mia | Юбка-черная-кожа | П:52 | Р:36</model>
       <brand>Mira Mia</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>37300</price>
     </offer>
@@ -2719,7 +2719,7 @@
       <model>Piena | Платье черное трикотажное с коротким рукавом и белым воротником (6501) | П:72 | Р:1</model>
       <brand>Piena</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>48100</price>
     </offer>
@@ -2735,7 +2735,7 @@
       <model>Piena | Платье черное трикотажное с коротким рукавом и белым воротником (6501) | П:72 | Р:3</model>
       <brand>Piena</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>48100</price>
     </offer>
@@ -3223,7 +3223,7 @@
       <model>Rogue | Платье-цветастый-шифон | П:59 | Р:48</model>
       <brand>Rogue</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>49400</price>
     </offer>
