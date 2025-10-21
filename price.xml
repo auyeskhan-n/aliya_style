@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-21 06:32:04" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-21 12:45:57" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Aliya Style</company>
   <merchantid>30375992</merchantid>
   <offers>
@@ -161,7 +161,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>23600</price>
+      <price>8000</price>
     </offer>
     <offer sku="L46327">
       <model> | Юбка-джинсовая | П:9 | Р:36</model>
@@ -2267,6 +2267,54 @@
       </availabilities>
       <price>35360</price>
     </offer>
+    <offer sku="L80608">
+      <model>Piena | Блузка шифон, цветастая (4424) | П:76 | Р:1</model>
+      <brand>Piena</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>36480</price>
+    </offer>
+    <offer sku="I20793">
+      <model>Piena | Блузка шифон, цветастая (4424) | П:76 | Р:2</model>
+      <brand>Piena</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>36480</price>
+    </offer>
+    <offer sku="710394">
+      <model>Piena | Блузка шифон, цветастая (4424) | П:76 | Р:3</model>
+      <brand>Piena</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>36480</price>
+    </offer>
+    <offer sku="K97340">
+      <model>Piena | Блузка шифон, цветастая (4424) | П:76 | Р:4</model>
+      <brand>Piena</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>36480</price>
+    </offer>
+    <offer sku="J60306">
+      <model>Piena | Блузка шифон, цветастая (4424) | П:76 | Р:5</model>
+      <brand>Piena</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>36480</price>
+    </offer>
+    <offer sku="K45500">
+      <model>Piena | Блузка шифон, цветастая (4424) | П:76 | Р:6</model>
+      <brand>Piena</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>36480</price>
+    </offer>
     <offer sku="G70626">
       <model>Piena | Двойка-брючный-жасыл мүйіз-штапель | П:66 | Р:1</model>
       <brand>Piena</brand>
@@ -2863,7 +2911,7 @@
       <model>Piena | Юбка-широкая-черная | П:41-42 | Р:1</model>
       <brand>Piena</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>35100</price>
     </offer>
@@ -2922,6 +2970,62 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>27200</price>
+    </offer>
+    <offer sku="D16651">
+      <model>Polin | Двойка юбка, бежево-черная (3105) | П:76 | Р:4</model>
+      <brand>Polin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>78500</price>
+    </offer>
+    <offer sku="S56895">
+      <model>Polin | Двойка юбка, бежево-черная (3105) | П:76 | Р:5</model>
+      <brand>Polin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>78500</price>
+    </offer>
+    <offer sku="514077">
+      <model>Polin | Двойка юбка, бежево-черная (3105) | П:76 | Р:6</model>
+      <brand>Polin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>78500</price>
+    </offer>
+    <offer sku="558529">
+      <model>Polin | Двойка юбка, черная, золотые пуговицы (1049) | П:76 | Р:42</model>
+      <brand>Polin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>75500</price>
+    </offer>
+    <offer sku="R67454">
+      <model>Polin | Двойка юбка, черная, золотые пуговицы (1049) | П:76 | Р:44</model>
+      <brand>Polin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>75500</price>
+    </offer>
+    <offer sku="C39134">
+      <model>Polin | Двойка юбка, черная, золотые пуговицы (1049) | П:76 | Р:46</model>
+      <brand>Polin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>75500</price>
+    </offer>
+    <offer sku="E43436">
+      <model>Polin | Двойка юбка, черная, золотые пуговицы (1049) | П:76 | Р:48</model>
+      <brand>Polin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>75500</price>
     </offer>
     <offer sku="L45743">
       <model>Polin | Двойка-юбочн-голубая юбка | П:68 | Р:3</model>
@@ -3795,6 +3899,38 @@
       </availabilities>
       <price>32900</price>
     </offer>
+    <offer sku="Z94469">
+      <model>Vivento | Брюки палаццо, черные (334-Б) | П:76 | Р:36</model>
+      <brand>Vivento</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>46560</price>
+    </offer>
+    <offer sku="G94378">
+      <model>Vivento | Брюки палаццо, черные (334-Б) | П:76 | Р:38</model>
+      <brand>Vivento</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>46560</price>
+    </offer>
+    <offer sku="B31244">
+      <model>Vivento | Брюки палаццо, черные (334-Б) | П:76 | Р:40</model>
+      <brand>Vivento</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>46560</price>
+    </offer>
+    <offer sku="280527">
+      <model>Vivento | Брюки палаццо, черные (334-Б) | П:76 | Р:42</model>
+      <brand>Vivento</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>46560</price>
+    </offer>
     <offer sku="N25630">
       <model>Vivento | Двойка-юбочная-лен-белая | П:31-32 | Р:36</model>
       <brand>Vivento</brand>
@@ -3851,14 +3987,6 @@
       </availabilities>
       <price>54400</price>
     </offer>
-    <offer sku="Q65982">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
-      <brand>Volente</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>55600</price>
-    </offer>
     <offer sku="S88447">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
       <brand>Volente</brand>
@@ -3874,14 +4002,6 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>54400</price>
-    </offer>
-    <offer sku="V38642">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
-      <brand>Volente</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>55600</price>
     </offer>
     <offer sku="D76777">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
@@ -3899,24 +4019,16 @@
       </availabilities>
       <price>55000</price>
     </offer>
-    <offer sku="L19882">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:44</model>
+    <offer sku="V38642">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
       <brand>Volente</brand>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>55000</price>
+      <price>55600</price>
     </offer>
-    <offer sku="N41103">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:44</model>
-      <brand>Volente</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>55000</price>
-    </offer>
-    <offer sku="X23695">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:44</model>
+    <offer sku="Q65982">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
       <brand>Volente</brand>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
@@ -3931,13 +4043,29 @@
       </availabilities>
       <price>55600</price>
     </offer>
-    <offer sku="D64056">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:46</model>
+    <offer sku="X23695">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:44</model>
       <brand>Volente</brand>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
       <price>55600</price>
+    </offer>
+    <offer sku="N41103">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:44</model>
+      <brand>Volente</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>55000</price>
+    </offer>
+    <offer sku="L19882">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:44</model>
+      <brand>Volente</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>55000</price>
     </offer>
     <offer sku="H89590">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:46</model>
@@ -3963,16 +4091,8 @@
       </availabilities>
       <price>55600</price>
     </offer>
-    <offer sku="264119">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:48</model>
-      <brand>Volente</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>55600</price>
-    </offer>
-    <offer sku="M92767">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:48</model>
+    <offer sku="D64056">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:46</model>
       <brand>Volente</brand>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
@@ -3986,6 +4106,22 @@
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
       <price>55000</price>
+    </offer>
+    <offer sku="M92767">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:48</model>
+      <brand>Volente</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>55600</price>
+    </offer>
+    <offer sku="264119">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:48</model>
+      <brand>Volente</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>55600</price>
     </offer>
     <offer sku="I96155">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:48</model>
