@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-16 06:31:03" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-16 12:39:26" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Aliya Style</company>
   <merchantid>30375992</merchantid>
   <offers>
@@ -399,7 +399,7 @@
       <model>Blumese | Платье-шифон-темно-зеленое | П:61 | Р:42</model>
       <brand>Blumese</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>49500</price>
     </offer>
@@ -2279,7 +2279,7 @@
       <model>Of White | Платье с бантом на рукавах (5058) | П:73 | Р:42</model>
       <brand>Of White</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>55700</price>
     </offer>
@@ -2823,7 +2823,7 @@
       <model>Piena | Платье цветочные из шелка (6576) | П:72 | Р:3</model>
       <brand>Piena</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>54700</price>
     </offer>
@@ -4095,7 +4095,7 @@
       <model>Via Via | Платье-двойка с накидкой | П:53-54 | Р:44</model>
       <brand>Via Via</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>49700</price>
     </offer>
