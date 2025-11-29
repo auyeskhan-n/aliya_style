@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-29 06:31:52" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-11-29 12:41:38" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Aliya Style</company>
   <merchantid>30375992</merchantid>
   <offers>
@@ -1663,7 +1663,7 @@
       <model>Lavin | Платье с блестящим воротом, черная (50001) | П:80 | Р:38</model>
       <brand>Lavin</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>55000</price>
     </offer>
@@ -2103,7 +2103,7 @@
       <model>Mira Mia | Топик-черный-кимоно | П:40 | Р:38</model>
       <brand>Mira Mia</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>31600</price>
     </offer>
@@ -2143,7 +2143,7 @@
       <model>Moncheri | Платье дл.рукав-трикот-зелен | П:48 | Р:36</model>
       <brand>Moncheri</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>43500</price>
     </offer>
@@ -3135,7 +3135,7 @@
       <model>Piena | Платье черное с корот рукав | П:55-56 | Р:1</model>
       <brand>Piena</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>44700</price>
     </offer>
@@ -4647,7 +4647,7 @@
       <model>Vita Vien | Юбка-прямой-кнопка-белые | П:50 | Р:38</model>
       <brand>Vita Vien</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>32900</price>
     </offer>
