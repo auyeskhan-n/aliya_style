@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-16 06:37:07" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-16 12:50:54" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Aliya Style</company>
   <merchantid>30375992</merchantid>
   <offers>
@@ -739,6 +739,62 @@
       </availabilities>
       <price>25600</price>
     </offer>
+    <offer sku="K24579">
+      <model>Ella | Платье из крепа с гипюром, бургундий (4441) | П:82 | Р:36</model>
+      <brand>Ella</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>50200</price>
+    </offer>
+    <offer sku="024328">
+      <model>Ella | Платье из крепа с гипюром, бургундий (4441) | П:82 | Р:38</model>
+      <brand>Ella</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>50200</price>
+    </offer>
+    <offer sku="R79429">
+      <model>Ella | Платье из крепа с гипюром, бургундий (4441) | П:82 | Р:40</model>
+      <brand>Ella</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>50200</price>
+    </offer>
+    <offer sku="T68360">
+      <model>Ella | Платье из крепа с гипюром, бургундий (4441) | П:82 | Р:42</model>
+      <brand>Ella</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="2"/>
+      </availabilities>
+      <price>50200</price>
+    </offer>
+    <offer sku="513338">
+      <model>Ella | Платье из крепа с гипюром, бургундий (4441) | П:82 | Р:44</model>
+      <brand>Ella</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>50200</price>
+    </offer>
+    <offer sku="H96023">
+      <model>Ella | Платье из крепа с гипюром, бургундий (4441) | П:82 | Р:46</model>
+      <brand>Ella</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>50200</price>
+    </offer>
+    <offer sku="W34074">
+      <model>Ella | Платье из крепа с гипюром, бургундий (4441) | П:82 | Р:48</model>
+      <brand>Ella</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>50200</price>
+    </offer>
     <offer sku="187013">
       <model>Ella | Платье из крепа с гипюром, черное (4441) | П:81 | Р:36</model>
       <brand>Ella</brand>
@@ -1299,19 +1355,19 @@
       </availabilities>
       <price>54500</price>
     </offer>
-    <offer sku="125963">
-      <model>Kadelli | Двойка с прямой юбкой-темносиние | П:40 | Р:42</model>
-      <brand>Kadelli</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>51200</price>
-    </offer>
     <offer sku="U95659">
       <model>Kadelli | Двойка с прямой юбкой-темносиние | П:40 | Р:42</model>
       <brand>Kadelli</brand>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>51200</price>
+    </offer>
+    <offer sku="125963">
+      <model>Kadelli | Двойка с прямой юбкой-темносиние | П:40 | Р:42</model>
+      <brand>Kadelli</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
       <price>51200</price>
     </offer>
@@ -1619,7 +1675,7 @@
       </availabilities>
       <price>71100</price>
     </offer>
-    <offer sku="D21655">
+    <offer sku="134872">
       <model>Lasagrada | Куртка Lasagrada-черные | П:43-44 | Р:44</model>
       <brand>Lasagrada</brand>
       <availabilities>
@@ -1627,7 +1683,7 @@
       </availabilities>
       <price>71100</price>
     </offer>
-    <offer sku="134872">
+    <offer sku="D21655">
       <model>Lasagrada | Куртка Lasagrada-черные | П:43-44 | Р:44</model>
       <brand>Lasagrada</brand>
       <availabilities>
@@ -1811,14 +1867,6 @@
       </availabilities>
       <price>55000</price>
     </offer>
-    <offer sku="V98885">
-      <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:36</model>
-      <brand>Lavin</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>53600</price>
-    </offer>
     <offer sku="P87482">
       <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:36</model>
       <brand>Lavin</brand>
@@ -1827,8 +1875,8 @@
       </availabilities>
       <price>53600</price>
     </offer>
-    <offer sku="B54093">
-      <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:38</model>
+    <offer sku="V98885">
+      <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:36</model>
       <brand>Lavin</brand>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
@@ -1843,8 +1891,8 @@
       </availabilities>
       <price>53600</price>
     </offer>
-    <offer sku="Y62816">
-      <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:40</model>
+    <offer sku="B54093">
+      <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:38</model>
       <brand>Lavin</brand>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
@@ -1852,6 +1900,14 @@
       <price>53600</price>
     </offer>
     <offer sku="F89529">
+      <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:40</model>
+      <brand>Lavin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>53600</price>
+    </offer>
+    <offer sku="Y62816">
       <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:40</model>
       <brand>Lavin</brand>
       <availabilities>
@@ -2610,6 +2666,38 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>28200</price>
+    </offer>
+    <offer sku="E67878">
+      <model>Phardi | Блузка, коричневая (334-82) | П:82 | Р:36</model>
+      <brand>Phardi</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>34800</price>
+    </offer>
+    <offer sku="A65759">
+      <model>Phardi | Блузка, коричневая (334-82) | П:82 | Р:38</model>
+      <brand>Phardi</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>34800</price>
+    </offer>
+    <offer sku="P36415">
+      <model>Phardi | Блузка, коричневая (334-82) | П:82 | Р:40</model>
+      <brand>Phardi</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>34800</price>
+    </offer>
+    <offer sku="A89411">
+      <model>Phardi | Блузка, коричневая (334-82) | П:82 | Р:42</model>
+      <brand>Phardi</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>34800</price>
     </offer>
     <offer sku="H60317">
       <model>Phardi | Платье с белым пиджаком-двойка | П:23 | Р:36</model>
@@ -4215,7 +4303,7 @@
       <model>Roxelan | Платье-корсет-черное | П:55-56 | Р:38</model>
       <brand>Roxelan</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>44700</price>
     </offer>
@@ -4375,7 +4463,7 @@
       <model>San Vera | Блузка шифон-серый | П:49 | Р:36</model>
       <brand>San Vera</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>29200</price>
     </offer>
@@ -4551,7 +4639,7 @@
       <model>Tessy | Платье из крепа черное (7125) | П:72 | Р:36</model>
       <brand>Tessy</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>44800</price>
     </offer>
@@ -4559,7 +4647,7 @@
       <model>Tessy | Платье из крепа черное (7125) | П:72 | Р:38</model>
       <brand>Tessy</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>44800</price>
     </offer>
@@ -4618,6 +4706,38 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>47200</price>
+    </offer>
+    <offer sku="I26463">
+      <model>Tessy | Платье с гефюром, коричневое (7175) | П:82 | Р:42</model>
+      <brand>Tessy</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>59000</price>
+    </offer>
+    <offer sku="C59571">
+      <model>Tessy | Платье с гефюром, коричневое (7175) | П:82 | Р:44</model>
+      <brand>Tessy</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>59000</price>
+    </offer>
+    <offer sku="S61444">
+      <model>Tessy | Платье с гефюром, коричневое (7175) | П:82 | Р:46</model>
+      <brand>Tessy</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>59000</price>
+    </offer>
+    <offer sku="M53488">
+      <model>Tessy | Платье с гефюром, коричневое (7175) | П:82 | Р:48</model>
+      <brand>Tessy</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>59000</price>
     </offer>
     <offer sku="R51178">
       <model>Tessy | Платье шифон с белым цветочк-зеленые | П:38-39 | Р:48</model>
@@ -4923,7 +5043,7 @@
       </availabilities>
       <price>63600</price>
     </offer>
-    <offer sku="E63835">
+    <offer sku="M69641">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:36</model>
       <brand>Volente</brand>
       <availabilities>
@@ -4931,7 +5051,7 @@
       </availabilities>
       <price>54400</price>
     </offer>
-    <offer sku="M69641">
+    <offer sku="E63835">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:36</model>
       <brand>Volente</brand>
       <availabilities>
@@ -4971,22 +5091,6 @@
       </availabilities>
       <price>54400</price>
     </offer>
-    <offer sku="S61768">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
-      <brand>Volente</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>55000</price>
-    </offer>
-    <offer sku="Q65982">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
-      <brand>Volente</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>55600</price>
-    </offer>
     <offer sku="V48471">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
       <brand>Volente</brand>
@@ -5019,6 +5123,22 @@
       </availabilities>
       <price>54400</price>
     </offer>
+    <offer sku="Q65982">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
+      <brand>Volente</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>55600</price>
+    </offer>
+    <offer sku="S61768">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
+      <brand>Volente</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>55000</price>
+    </offer>
     <offer sku="N41103">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:44</model>
       <brand>Volente</brand>
@@ -5026,14 +5146,6 @@
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
       <price>55000</price>
-    </offer>
-    <offer sku="X23695">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:44</model>
-      <brand>Volente</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>55600</price>
     </offer>
     <offer sku="L19882">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:44</model>
@@ -5051,7 +5163,31 @@
       </availabilities>
       <price>55600</price>
     </offer>
+    <offer sku="X23695">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:44</model>
+      <brand>Volente</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>55600</price>
+    </offer>
+    <offer sku="833726">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:46</model>
+      <brand>Volente</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>55000</price>
+    </offer>
     <offer sku="D64056">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:46</model>
+      <brand>Volente</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>55600</price>
+    </offer>
+    <offer sku="899330">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:46</model>
       <brand>Volente</brand>
       <availabilities>
@@ -5067,39 +5203,7 @@
       </availabilities>
       <price>55000</price>
     </offer>
-    <offer sku="833726">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:46</model>
-      <brand>Volente</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>55000</price>
-    </offer>
-    <offer sku="899330">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:46</model>
-      <brand>Volente</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>55600</price>
-    </offer>
-    <offer sku="264119">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:48</model>
-      <brand>Volente</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>55600</price>
-    </offer>
     <offer sku="I96155">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:48</model>
-      <brand>Volente</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>55000</price>
-    </offer>
-    <offer sku="I16966">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:48</model>
       <brand>Volente</brand>
       <availabilities>
@@ -5114,6 +5218,22 @@
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
       <price>55600</price>
+    </offer>
+    <offer sku="264119">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:48</model>
+      <brand>Volente</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>55600</price>
+    </offer>
+    <offer sku="I16966">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:48</model>
+      <brand>Volente</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>55000</price>
     </offer>
     <offer sku="W15496">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-рисунок-ХБ | П:70 | Р:42</model>
