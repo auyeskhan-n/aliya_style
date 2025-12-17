@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-17 06:36:31" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-17 12:50:43" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Aliya Style</company>
   <merchantid>30375992</merchantid>
   <offers>
@@ -1439,7 +1439,7 @@
       <model>Kokart | Блузка-черная рукав шифон | П:52 | Р:42</model>
       <brand>Kokart</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>36000</price>
     </offer>
@@ -1675,7 +1675,7 @@
       </availabilities>
       <price>71100</price>
     </offer>
-    <offer sku="134872">
+    <offer sku="D21655">
       <model>Lasagrada | Куртка Lasagrada-черные | П:43-44 | Р:44</model>
       <brand>Lasagrada</brand>
       <availabilities>
@@ -1683,7 +1683,7 @@
       </availabilities>
       <price>71100</price>
     </offer>
-    <offer sku="D21655">
+    <offer sku="134872">
       <model>Lasagrada | Куртка Lasagrada-черные | П:43-44 | Р:44</model>
       <brand>Lasagrada</brand>
       <availabilities>
@@ -1867,6 +1867,14 @@
       </availabilities>
       <price>55000</price>
     </offer>
+    <offer sku="V98885">
+      <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:36</model>
+      <brand>Lavin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>53600</price>
+    </offer>
     <offer sku="P87482">
       <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:36</model>
       <brand>Lavin</brand>
@@ -1875,11 +1883,11 @@
       </availabilities>
       <price>53600</price>
     </offer>
-    <offer sku="V98885">
-      <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:36</model>
+    <offer sku="B54093">
+      <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:38</model>
       <brand>Lavin</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>53600</price>
     </offer>
@@ -1891,15 +1899,7 @@
       </availabilities>
       <price>53600</price>
     </offer>
-    <offer sku="B54093">
-      <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:38</model>
-      <brand>Lavin</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>53600</price>
-    </offer>
-    <offer sku="F89529">
+    <offer sku="Y62816">
       <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:40</model>
       <brand>Lavin</brand>
       <availabilities>
@@ -1907,7 +1907,7 @@
       </availabilities>
       <price>53600</price>
     </offer>
-    <offer sku="Y62816">
+    <offer sku="F89529">
       <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:40</model>
       <brand>Lavin</brand>
       <availabilities>
@@ -1927,7 +1927,7 @@
       <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:42</model>
       <brand>Lavin</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>53600</price>
     </offer>
@@ -1939,19 +1939,19 @@
       </availabilities>
       <price>53900</price>
     </offer>
-    <offer sku="221212">
-      <model>Lazzuri | Платье-кимоно с желтой накидкой-лен | П:71 | Р:42</model>
-      <brand>Lazzuri</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>57200</price>
-    </offer>
     <offer sku="G82834">
       <model>Lazzuri | Платье-кимоно с желтой накидкой-лен | П:71 | Р:42</model>
       <brand>Lazzuri</brand>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>57200</price>
+    </offer>
+    <offer sku="221212">
+      <model>Lazzuri | Платье-кимоно с желтой накидкой-лен | П:71 | Р:42</model>
+      <brand>Lazzuri</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
       <price>57200</price>
     </offer>
@@ -2855,7 +2855,7 @@
       <model>Piena | Блузка шифон, цветастая (4424) | П:76 | Р:1</model>
       <brand>Piena</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>36480</price>
     </offer>
@@ -4807,7 +4807,7 @@
       <model>Topwomen | Платье из шифона с гипюром, бордовое (7146) | П:79 | Р:42</model>
       <brand>Topwomen</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>85500</price>
     </offer>
