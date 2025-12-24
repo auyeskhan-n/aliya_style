@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-24 06:37:12" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-24 12:47:59" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Aliya Style</company>
   <merchantid>30375992</merchantid>
   <offers>
@@ -2479,7 +2479,7 @@
       <model>My Twins | Тройка-юбочная плесси-молочная | П:55-56 | Р:36</model>
       <brand>My Twins</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>79800</price>
     </offer>
@@ -4319,7 +4319,7 @@
       <model>Roxelan | Платье-корсет-черное | П:55-56 | Р:42</model>
       <brand>Roxelan</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>44700</price>
     </offer>
@@ -4835,6 +4835,70 @@
       </availabilities>
       <price>85500</price>
     </offer>
+    <offer sku="E91514">
+      <model>Topwomen | Платье из шифона с гипюром, длинный рукав, бордовое (7169) | П:83 | Р:42</model>
+      <brand>Topwomen</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>89700</price>
+    </offer>
+    <offer sku="G98728">
+      <model>Topwomen | Платье из шифона с гипюром, длинный рукав, бордовое (7169) | П:83 | Р:44</model>
+      <brand>Topwomen</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>89700</price>
+    </offer>
+    <offer sku="G70380">
+      <model>Topwomen | Платье из шифона с гипюром, длинный рукав, бордовое (7169) | П:83 | Р:46</model>
+      <brand>Topwomen</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>89700</price>
+    </offer>
+    <offer sku="374301">
+      <model>Topwomen | Платье из шифона с гипюром, длинный рукав, бордовое (7169) | П:83 | Р:48</model>
+      <brand>Topwomen</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>89700</price>
+    </offer>
+    <offer sku="774725">
+      <model>Topwomen | Платье из шифона с гипюром, длинный рукав, коричневое (7169) | П:83 | Р:42</model>
+      <brand>Topwomen</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>89700</price>
+    </offer>
+    <offer sku="A55866">
+      <model>Topwomen | Платье из шифона с гипюром, длинный рукав, коричневое (7169) | П:83 | Р:44</model>
+      <brand>Topwomen</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>89700</price>
+    </offer>
+    <offer sku="L34049">
+      <model>Topwomen | Платье из шифона с гипюром, длинный рукав, коричневое (7169) | П:83 | Р:46</model>
+      <brand>Topwomen</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>89700</price>
+    </offer>
+    <offer sku="U91060">
+      <model>Topwomen | Платье из шифона с гипюром, длинный рукав, коричневое (7169) | П:83 | Р:48</model>
+      <brand>Topwomen</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>89700</price>
+    </offer>
     <offer sku="H93577">
       <model>Topwomen | Платье-айвари-тойский | П:59 | Р:46</model>
       <brand>Topwomen</brand>
@@ -5059,14 +5123,6 @@
       </availabilities>
       <price>54400</price>
     </offer>
-    <offer sku="J34931">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:38</model>
-      <brand>Volente</brand>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>54400</price>
-    </offer>
     <offer sku="W44827">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:38</model>
       <brand>Volente</brand>
@@ -5075,8 +5131,8 @@
       </availabilities>
       <price>54400</price>
     </offer>
-    <offer sku="282185">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:40</model>
+    <offer sku="J34931">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:38</model>
       <brand>Volente</brand>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
@@ -5091,6 +5147,14 @@
       </availabilities>
       <price>54400</price>
     </offer>
+    <offer sku="282185">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:40</model>
+      <brand>Volente</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>54400</price>
+    </offer>
     <offer sku="S61768">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
       <brand>Volente</brand>
@@ -5098,22 +5162,6 @@
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
       <price>55000</price>
-    </offer>
-    <offer sku="Q65982">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
-      <brand>Volente</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>55600</price>
-    </offer>
-    <offer sku="V48471">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
-      <brand>Volente</brand>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>54400</price>
     </offer>
     <offer sku="V38642">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
@@ -5131,6 +5179,14 @@
       </availabilities>
       <price>55000</price>
     </offer>
+    <offer sku="V48471">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
+      <brand>Volente</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>54400</price>
+    </offer>
     <offer sku="S88447">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
       <brand>Volente</brand>
@@ -5139,8 +5195,8 @@
       </availabilities>
       <price>54400</price>
     </offer>
-    <offer sku="Z47073">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:44</model>
+    <offer sku="Q65982">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
       <brand>Volente</brand>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
@@ -5155,7 +5211,7 @@
       </availabilities>
       <price>55000</price>
     </offer>
-    <offer sku="X23695">
+    <offer sku="Z47073">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:44</model>
       <brand>Volente</brand>
       <availabilities>
@@ -5171,7 +5227,15 @@
       </availabilities>
       <price>55000</price>
     </offer>
-    <offer sku="833726">
+    <offer sku="X23695">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:44</model>
+      <brand>Volente</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>55600</price>
+    </offer>
+    <offer sku="H89590">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:46</model>
       <brand>Volente</brand>
       <availabilities>
@@ -5187,15 +5251,7 @@
       </availabilities>
       <price>55600</price>
     </offer>
-    <offer sku="899330">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:46</model>
-      <brand>Volente</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>55600</price>
-    </offer>
-    <offer sku="H89590">
+    <offer sku="833726">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:46</model>
       <brand>Volente</brand>
       <availabilities>
@@ -5203,8 +5259,8 @@
       </availabilities>
       <price>55000</price>
     </offer>
-    <offer sku="264119">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:48</model>
+    <offer sku="899330">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:46</model>
       <brand>Volente</brand>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
@@ -5219,6 +5275,14 @@
       </availabilities>
       <price>55600</price>
     </offer>
+    <offer sku="I16966">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:48</model>
+      <brand>Volente</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>55000</price>
+    </offer>
     <offer sku="I96155">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:48</model>
       <brand>Volente</brand>
@@ -5227,13 +5291,13 @@
       </availabilities>
       <price>55000</price>
     </offer>
-    <offer sku="I16966">
+    <offer sku="264119">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:48</model>
       <brand>Volente</brand>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>55000</price>
+      <price>55600</price>
     </offer>
     <offer sku="W15496">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-рисунок-ХБ | П:70 | Р:42</model>
@@ -5367,7 +5431,7 @@
       <model>Volente | Платье из крепа, бордовое (2727) | П:72 | Р:46</model>
       <brand>Volente</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>40000</price>
     </offer>
