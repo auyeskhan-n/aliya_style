@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-28 06:34:41" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-28 12:44:48" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Aliya Style</company>
   <merchantid>30375992</merchantid>
   <offers>
@@ -623,7 +623,7 @@
       <model>Destello | Двойка-брючная-блестящ-коричнев | П:53-54 | Р:3</model>
       <brand>Destello</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>51000</price>
     </offer>
@@ -631,7 +631,7 @@
       <model>Destello | Двойка-брючная-блестящ-черная | П:53-54 | Р:1</model>
       <brand>Destello</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>51000</price>
     </offer>
@@ -807,7 +807,7 @@
       <model>Ella | Платье из крепа с гипюром, черное (4441) | П:81 | Р:38</model>
       <brand>Ella</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>48100</price>
     </offer>
@@ -1087,7 +1087,7 @@
       <model>Gio | Двойка-велюр-бургундый | П:49 | Р:38</model>
       <brand>Gio</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>56600</price>
     </offer>
@@ -1231,7 +1231,7 @@
       <model>Gumanize | Двойка-велюр-изумруд | П:51 | Р:48</model>
       <brand>Gumanize</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>38200</price>
     </offer>
@@ -3943,7 +3943,7 @@
       <model>Polin | Двойка юбка, черная, золотые пуговицы (1049) | П:76 | Р:44</model>
       <brand>Polin</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>83520</price>
     </offer>
