@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-30 06:37:09" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-12-30 12:50:09" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Aliya Style</company>
   <merchantid>30375992</merchantid>
   <offers>
@@ -599,7 +599,7 @@
       <model>Destello | Двойка-брючная-блестящ-бургунди | П:53-54 | Р:3</model>
       <brand>Destello</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>51000</price>
     </offer>
@@ -2831,7 +2831,7 @@
       <model>Piena | Блузка из шелка с цветочным принтом (4425) | П:75 | Р:1</model>
       <brand>Piena</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>35360</price>
     </offer>
@@ -3823,7 +3823,7 @@
       <model>Piena | Юбка плиссе из крепа-органзы, черная (3807) | П:75 | Р:1</model>
       <brand>Piena</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>39840</price>
     </offer>
