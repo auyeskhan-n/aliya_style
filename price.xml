@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-03 06:55:41" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-03 13:06:27" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Aliya Style</company>
   <merchantid>30375992</merchantid>
   <offers>
@@ -1323,19 +1323,19 @@
       </availabilities>
       <price>28600</price>
     </offer>
-    <offer sku="Q64065">
-      <model>Gizzline | Рубашка-белая-черная полоска-ХБ | П:67 | Р:36</model>
-      <brand>Gizzline</brand>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>27200</price>
-    </offer>
     <offer sku="G56039">
       <model>Gizzline | Рубашка-белая-черная полоска-ХБ | П:67 | Р:36</model>
       <brand>Gizzline</brand>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>27200</price>
+    </offer>
+    <offer sku="Q64065">
+      <model>Gizzline | Рубашка-белая-черная полоска-ХБ | П:67 | Р:36</model>
+      <brand>Gizzline</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>27200</price>
     </offer>
@@ -1759,7 +1759,7 @@
       <model>Lady Form | Платье-розовые цветы | П:36-37 | Р:36</model>
       <brand>Lady Form</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>48800</price>
     </offer>
