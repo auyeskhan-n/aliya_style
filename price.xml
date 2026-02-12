@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-12 07:04:58" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-12 13:14:00" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Aliya Style</company>
   <merchantid>30375992</merchantid>
   <offers>
@@ -1391,7 +1391,7 @@
       <model>Hermia | Двойка плесси юбкой-коричн-под кожи | П:52 | Р:44</model>
       <brand>Hermia</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>36000</price>
     </offer>
@@ -3839,7 +3839,7 @@
       <model>Piena | Платье цветочное, атлас, темное (6621) | П:85 | Р:3</model>
       <brand>Piena</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>53680</price>
     </offer>
@@ -4159,7 +4159,7 @@
       <model>Piena | Платье-халат велюр, зеленый цветочный принт (6534) | П:77 | Р:5</model>
       <brand>Piena</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>57760</price>
     </offer>
@@ -5991,7 +5991,7 @@
       <model>Volente | Платье-желтое | П:33 | Р:44</model>
       <brand>Volente</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>51200</price>
     </offer>
