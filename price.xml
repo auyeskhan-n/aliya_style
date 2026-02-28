@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-28 06:42:11" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-28 12:51:22" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Aliya Style</company>
   <merchantid>30375992</merchantid>
   <offers>
@@ -311,7 +311,7 @@
       <model>Aras | Бомбер, с длинным рукавом, голубой (13651) | П:84 | Р:44</model>
       <brand>Aras</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>37480</price>
     </offer>
@@ -367,7 +367,7 @@
       <model>Aras | Бомбер, с укороченным рукавом, белый (13673) | П:84 | Р:42</model>
       <brand>Aras</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>35320</price>
     </offer>
@@ -1483,19 +1483,19 @@
       </availabilities>
       <price>54500</price>
     </offer>
-    <offer sku="U95659">
-      <model>Kadelli | Двойка с прямой юбкой-темносиние | П:40 | Р:42</model>
-      <brand>Kadelli</brand>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>51200</price>
-    </offer>
     <offer sku="125963">
       <model>Kadelli | Двойка с прямой юбкой-темносиние | П:40 | Р:42</model>
       <brand>Kadelli</brand>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>51200</price>
+    </offer>
+    <offer sku="U95659">
+      <model>Kadelli | Двойка с прямой юбкой-темносиние | П:40 | Р:42</model>
+      <brand>Kadelli</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>51200</price>
     </offer>
@@ -1767,7 +1767,7 @@
       <model>Lady Form | Платье-розовые цветы | П:36-37 | Р:38</model>
       <brand>Lady Form</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>48800</price>
     </offer>
@@ -1803,7 +1803,7 @@
       </availabilities>
       <price>71100</price>
     </offer>
-    <offer sku="134872">
+    <offer sku="D21655">
       <model>Lasagrada | Куртка Lasagrada-черные | П:43-44 | Р:44</model>
       <brand>Lasagrada</brand>
       <availabilities>
@@ -1811,7 +1811,7 @@
       </availabilities>
       <price>71100</price>
     </offer>
-    <offer sku="D21655">
+    <offer sku="134872">
       <model>Lasagrada | Куртка Lasagrada-черные | П:43-44 | Р:44</model>
       <brand>Lasagrada</brand>
       <availabilities>
