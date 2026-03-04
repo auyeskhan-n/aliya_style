@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-03-04 02:12:42" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-03-04 06:52:18" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Aliya Style</company>
   <merchantid>30375992</merchantid>
   <offers>
@@ -2027,14 +2027,6 @@
       </availabilities>
       <price>55000</price>
     </offer>
-    <offer sku="V98885">
-      <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:36</model>
-      <brand>Lavin</brand>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>53600</price>
-    </offer>
     <offer sku="P87482">
       <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:36</model>
       <brand>Lavin</brand>
@@ -2043,8 +2035,8 @@
       </availabilities>
       <price>53600</price>
     </offer>
-    <offer sku="Z89854">
-      <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:38</model>
+    <offer sku="V98885">
+      <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:36</model>
       <brand>Lavin</brand>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
@@ -2059,8 +2051,8 @@
       </availabilities>
       <price>53600</price>
     </offer>
-    <offer sku="F89529">
-      <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:40</model>
+    <offer sku="Z89854">
+      <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:38</model>
       <brand>Lavin</brand>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
@@ -2068,6 +2060,14 @@
       <price>53600</price>
     </offer>
     <offer sku="Y62816">
+      <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:40</model>
+      <brand>Lavin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>53600</price>
+    </offer>
+    <offer sku="F89529">
       <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:40</model>
       <brand>Lavin</brand>
       <availabilities>
@@ -3887,7 +3887,7 @@
       <model>Piena | Платье с желтыми цветами (6678) | П:86 | Р:42</model>
       <brand>Piena</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>53680</price>
     </offer>
