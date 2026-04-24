@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-04-24 02:51:10" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-04-24 08:08:03" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Aliya Style</company>
   <merchantid>30375992</merchantid>
   <offers>
@@ -287,7 +287,7 @@
       <model>Aras | Бомбер, с длинным рукавом, голубой (13651) | П:84 | Р:38</model>
       <brand>Aras</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>37480</price>
     </offer>
@@ -1483,19 +1483,19 @@
       </availabilities>
       <price>54500</price>
     </offer>
-    <offer sku="U95659">
-      <model>Kadelli | Двойка с прямой юбкой-темносиние | П:40 | Р:42</model>
-      <brand>Kadelli</brand>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>51200</price>
-    </offer>
     <offer sku="125963">
       <model>Kadelli | Двойка с прямой юбкой-темносиние | П:40 | Р:42</model>
       <brand>Kadelli</brand>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>51200</price>
+    </offer>
+    <offer sku="U95659">
+      <model>Kadelli | Двойка с прямой юбкой-темносиние | П:40 | Р:42</model>
+      <brand>Kadelli</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>51200</price>
     </offer>
