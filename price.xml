@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-05-03 08:03:45" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-05-03 13:16:12" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Aliya Style</company>
   <merchantid>30375992</merchantid>
   <offers>
@@ -11,7 +11,7 @@
       </availabilities>
       <price>25000</price>
     </offer>
-    <offer sku="Q52296">
+    <offer sku="G32362">
       <model> | Батник-мужской | П:40 | Р:XL</model>
       <brand/>
       <availabilities>
@@ -19,7 +19,7 @@
       </availabilities>
       <price>25000</price>
     </offer>
-    <offer sku="G32362">
+    <offer sku="Q52296">
       <model> | Батник-мужской | П:40 | Р:XL</model>
       <brand/>
       <availabilities>
@@ -335,7 +335,7 @@
       <model>Aras | Бомбер, с длинным рукавом, голубой (13651) | П:85 | Р:42</model>
       <brand>Aras</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>37480</price>
     </offer>
@@ -1123,14 +1123,6 @@
       </availabilities>
       <price>63160</price>
     </offer>
-    <offer sku="H31204">
-      <model>Exxpose | Платье-камушки, голубое (1116) | П:88-4 | Р:42</model>
-      <brand>Exxpose</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>63160</price>
-    </offer>
     <offer sku="J19705">
       <model>Exxpose | Платье-камушки, голубое (1116) | П:88-4 | Р:42</model>
       <brand>Exxpose</brand>
@@ -1138,6 +1130,14 @@
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
       <price>64180</price>
+    </offer>
+    <offer sku="H31204">
+      <model>Exxpose | Платье-камушки, голубое (1116) | П:88-4 | Р:42</model>
+      <brand>Exxpose</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>63160</price>
     </offer>
     <offer sku="K36505">
       <model>Exxpose | Платье-камушки, голубое (1116) | П:88-4 | Р:44</model>
@@ -1579,19 +1579,19 @@
       </availabilities>
       <price>54500</price>
     </offer>
-    <offer sku="125963">
-      <model>Kadelli | Двойка с прямой юбкой-темносиние | П:40 | Р:42</model>
-      <brand>Kadelli</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>51200</price>
-    </offer>
     <offer sku="U95659">
       <model>Kadelli | Двойка с прямой юбкой-темносиние | П:40 | Р:42</model>
       <brand>Kadelli</brand>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>51200</price>
+    </offer>
+    <offer sku="125963">
+      <model>Kadelli | Двойка с прямой юбкой-темносиние | П:40 | Р:42</model>
+      <brand>Kadelli</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
       <price>51200</price>
     </offer>
@@ -1963,7 +1963,7 @@
       </availabilities>
       <price>71100</price>
     </offer>
-    <offer sku="134872">
+    <offer sku="D21655">
       <model>Lasagrada | Куртка Lasagrada-черные | П:43-44 | Р:44</model>
       <brand>Lasagrada</brand>
       <availabilities>
@@ -1971,7 +1971,7 @@
       </availabilities>
       <price>71100</price>
     </offer>
-    <offer sku="D21655">
+    <offer sku="134872">
       <model>Lasagrada | Куртка Lasagrada-черные | П:43-44 | Р:44</model>
       <brand>Lasagrada</brand>
       <availabilities>
@@ -5591,7 +5591,7 @@
       <model>Polin | Двойка юбочная, черная (4261) | П:89 | Р:36</model>
       <brand>Polin</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>81760</price>
     </offer>
