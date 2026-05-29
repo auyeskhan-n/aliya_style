@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-05-29 03:52:53" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-05-29 09:57:09" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Aliya Style</company>
   <merchantid>30375992</merchantid>
   <offers>
@@ -11,7 +11,7 @@
       </availabilities>
       <price>25000</price>
     </offer>
-    <offer sku="G32362">
+    <offer sku="Q52296">
       <model> | Батник-мужской | П:40 | Р:XL</model>
       <brand/>
       <availabilities>
@@ -19,7 +19,7 @@
       </availabilities>
       <price>25000</price>
     </offer>
-    <offer sku="Q52296">
+    <offer sku="G32362">
       <model> | Батник-мужской | П:40 | Р:XL</model>
       <brand/>
       <availabilities>
@@ -482,6 +482,38 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>27900</price>
+    </offer>
+    <offer sku="M20437">
+      <model>Basic | Рубашка, полоска с люрексом, лен (897-334) | П:88-7 | Р:L</model>
+      <brand>Basic</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>15730</price>
+    </offer>
+    <offer sku="X28588">
+      <model>Basic | Рубашка, полоска с люрексом, лен (897-334) | П:88-7 | Р:L</model>
+      <brand>Basic</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>15730</price>
+    </offer>
+    <offer sku="Y27404">
+      <model>Basic | Рубашка, полоска с люрексом, лен (897-334) | П:88-7 | Р:M</model>
+      <brand>Basic</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>15730</price>
+    </offer>
+    <offer sku="X79264">
+      <model>Basic | Рубашка, полоска с люрексом, лен (897-334) | П:88-7 | Р:S</model>
+      <brand>Basic</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>15730</price>
     </offer>
     <offer sku="I62516">
       <model>Biljana | Платье-белое-оранж цветок | П:55-56 | Р:42</model>
@@ -1111,7 +1143,7 @@
       <model>Exxpose | Платье-камушки, голубое (1116) | П:88-4 | Р:38</model>
       <brand>Exxpose</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>63160</price>
     </offer>
@@ -1123,14 +1155,6 @@
       </availabilities>
       <price>63160</price>
     </offer>
-    <offer sku="J19705">
-      <model>Exxpose | Платье-камушки, голубое (1116) | П:88-4 | Р:42</model>
-      <brand>Exxpose</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>64180</price>
-    </offer>
     <offer sku="H31204">
       <model>Exxpose | Платье-камушки, голубое (1116) | П:88-4 | Р:42</model>
       <brand>Exxpose</brand>
@@ -1138,6 +1162,14 @@
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
       <price>63160</price>
+    </offer>
+    <offer sku="J19705">
+      <model>Exxpose | Платье-камушки, голубое (1116) | П:88-4 | Р:42</model>
+      <brand>Exxpose</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>64180</price>
     </offer>
     <offer sku="K36505">
       <model>Exxpose | Платье-камушки, голубое (1116) | П:88-4 | Р:44</model>
@@ -1387,19 +1419,19 @@
       </availabilities>
       <price>28600</price>
     </offer>
-    <offer sku="G56039">
-      <model>Gizzline | Рубашка-белая-черная полоска-ХБ | П:67 | Р:36</model>
-      <brand>Gizzline</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>27200</price>
-    </offer>
     <offer sku="Q64065">
       <model>Gizzline | Рубашка-белая-черная полоска-ХБ | П:67 | Р:36</model>
       <brand>Gizzline</brand>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>27200</price>
+    </offer>
+    <offer sku="G56039">
+      <model>Gizzline | Рубашка-белая-черная полоска-ХБ | П:67 | Р:36</model>
+      <brand>Gizzline</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
       <price>27200</price>
     </offer>
@@ -2059,7 +2091,7 @@
       </availabilities>
       <price>71100</price>
     </offer>
-    <offer sku="D21655">
+    <offer sku="134872">
       <model>Lasagrada | Куртка Lasagrada-черные | П:43-44 | Р:44</model>
       <brand>Lasagrada</brand>
       <availabilities>
@@ -2067,7 +2099,7 @@
       </availabilities>
       <price>71100</price>
     </offer>
-    <offer sku="134872">
+    <offer sku="D21655">
       <model>Lasagrada | Куртка Lasagrada-черные | П:43-44 | Р:44</model>
       <brand>Lasagrada</brand>
       <availabilities>
@@ -2331,14 +2363,6 @@
       </availabilities>
       <price>53600</price>
     </offer>
-    <offer sku="B54093">
-      <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:38</model>
-      <brand>Lavin</brand>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>53600</price>
-    </offer>
     <offer sku="Z89854">
       <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:38</model>
       <brand>Lavin</brand>
@@ -2347,8 +2371,8 @@
       </availabilities>
       <price>53600</price>
     </offer>
-    <offer sku="F89529">
-      <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:40</model>
+    <offer sku="B54093">
+      <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:38</model>
       <brand>Lavin</brand>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
@@ -2356,6 +2380,14 @@
       <price>53600</price>
     </offer>
     <offer sku="Y62816">
+      <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:40</model>
+      <brand>Lavin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>53600</price>
+    </offer>
+    <offer sku="F89529">
       <model>Lavin | Платье с блестящим воротом, черная (50001) | П:81 | Р:40</model>
       <brand>Lavin</brand>
       <availabilities>
@@ -2483,7 +2515,7 @@
       </availabilities>
       <price>53900</price>
     </offer>
-    <offer sku="G82834">
+    <offer sku="221212">
       <model>Lazzuri | Платье-кимоно с желтой накидкой-лен | П:71 | Р:42</model>
       <brand>Lazzuri</brand>
       <availabilities>
@@ -2491,7 +2523,7 @@
       </availabilities>
       <price>57200</price>
     </offer>
-    <offer sku="221212">
+    <offer sku="G82834">
       <model>Lazzuri | Платье-кимоно с желтой накидкой-лен | П:71 | Р:42</model>
       <brand>Lazzuri</brand>
       <availabilities>
@@ -3151,7 +3183,7 @@
       <model>My Twins | Платье прямое с бомбером молочн, лен (9567) | П:88-2 | Р:42</model>
       <brand>My Twins</brand>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>71840</price>
     </offer>
@@ -3578,6 +3610,102 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>55700</price>
+    </offer>
+    <offer sku="Y58554">
+      <model>One Up | Двойка, юбочная, лен, белая (8157) | П:88-7 | Р:38</model>
+      <brand>One Up</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>60100</price>
+    </offer>
+    <offer sku="535039">
+      <model>One Up | Двойка, юбочная, лен, белая (8157) | П:88-7 | Р:40</model>
+      <brand>One Up</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>60100</price>
+    </offer>
+    <offer sku="U68427">
+      <model>One Up | Двойка, юбочная, лен, белая (8157) | П:88-7 | Р:42</model>
+      <brand>One Up</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>60100</price>
+    </offer>
+    <offer sku="G80825">
+      <model>One Up | Двойка, юбочная, лен, белая (8157) | П:88-7 | Р:44</model>
+      <brand>One Up</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>60100</price>
+    </offer>
+    <offer sku="D68582">
+      <model>One Up | Двойка, юбочная, лен, голубая (8157) | П:88-7 | Р:42</model>
+      <brand>One Up</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>60100</price>
+    </offer>
+    <offer sku="P74304">
+      <model>One Up | Двойка, юбочная, лен, голубая (8157) | П:88-7 | Р:44</model>
+      <brand>One Up</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>60100</price>
+    </offer>
+    <offer sku="N37828">
+      <model>One Up | Двойка, юбочная, лен, голубая (8157) | П:88-7 | Р:46</model>
+      <brand>One Up</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>60100</price>
+    </offer>
+    <offer sku="B50289">
+      <model>One Up | Двойка, юбочная, лен, голубая (8157) | П:88-7 | Р:48</model>
+      <brand>One Up</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>60100</price>
+    </offer>
+    <offer sku="972219">
+      <model>One Up | Двойка, юбочная, сатин, желтая (593) | П:88-7 | Р:42</model>
+      <brand>One Up</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>70300</price>
+    </offer>
+    <offer sku="S51667">
+      <model>One Up | Двойка, юбочная, сатин, желтая (593) | П:88-7 | Р:44</model>
+      <brand>One Up</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>70300</price>
+    </offer>
+    <offer sku="Q10006">
+      <model>One Up | Двойка, юбочная, сатин, желтая (593) | П:88-7 | Р:46</model>
+      <brand>One Up</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>70300</price>
+    </offer>
+    <offer sku="B97235">
+      <model>One Up | Двойка, юбочная, сатин, желтая (593) | П:88-7 | Р:48</model>
+      <brand>One Up</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>70300</price>
     </offer>
     <offer sku="W89368">
       <model>One Up | Двойка-юбочная, айвари (8153) | П:89-5 | Р:42</model>
@@ -5043,7 +5171,7 @@
       </availabilities>
       <price>54700</price>
     </offer>
-    <offer sku="C57062">
+    <offer sku="V46751">
       <model>Piena | Платье черное с корот рукав | П:55-56 | Р:1</model>
       <brand>Piena</brand>
       <availabilities>
@@ -5051,7 +5179,7 @@
       </availabilities>
       <price>44700</price>
     </offer>
-    <offer sku="V46751">
+    <offer sku="C57062">
       <model>Piena | Платье черное с корот рукав | П:55-56 | Р:1</model>
       <brand>Piena</brand>
       <availabilities>
@@ -7443,7 +7571,7 @@
       </availabilities>
       <price>54400</price>
     </offer>
-    <offer sku="J34931">
+    <offer sku="W44827">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:38</model>
       <brand>Volente</brand>
       <availabilities>
@@ -7451,7 +7579,7 @@
       </availabilities>
       <price>54400</price>
     </offer>
-    <offer sku="W44827">
+    <offer sku="J34931">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:38</model>
       <brand>Volente</brand>
       <availabilities>
@@ -7475,38 +7603,6 @@
       </availabilities>
       <price>54400</price>
     </offer>
-    <offer sku="Q65982">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
-      <brand>Volente</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>55600</price>
-    </offer>
-    <offer sku="V38642">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
-      <brand>Volente</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>55600</price>
-    </offer>
-    <offer sku="S61768">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
-      <brand>Volente</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>55000</price>
-    </offer>
-    <offer sku="V48471">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
-      <brand>Volente</brand>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>54400</price>
-    </offer>
     <offer sku="D76777">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
       <brand>Volente</brand>
@@ -7523,8 +7619,32 @@
       </availabilities>
       <price>54400</price>
     </offer>
-    <offer sku="X23695">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:44</model>
+    <offer sku="V48471">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
+      <brand>Volente</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>54400</price>
+    </offer>
+    <offer sku="S61768">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
+      <brand>Volente</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>55000</price>
+    </offer>
+    <offer sku="V38642">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
+      <brand>Volente</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>55600</price>
+    </offer>
+    <offer sku="Q65982">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:42</model>
       <brand>Volente</brand>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
@@ -7539,13 +7659,13 @@
       </availabilities>
       <price>55000</price>
     </offer>
-    <offer sku="N41103">
+    <offer sku="X23695">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:44</model>
       <brand>Volente</brand>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>55000</price>
+      <price>55600</price>
     </offer>
     <offer sku="Z47073">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:44</model>
@@ -7555,16 +7675,8 @@
       </availabilities>
       <price>55600</price>
     </offer>
-    <offer sku="899330">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:46</model>
-      <brand>Volente</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>55600</price>
-    </offer>
-    <offer sku="H89590">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:46</model>
+    <offer sku="N41103">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:44</model>
       <brand>Volente</brand>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
@@ -7587,23 +7699,23 @@
       </availabilities>
       <price>55600</price>
     </offer>
-    <offer sku="M92767">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:48</model>
+    <offer sku="899330">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:46</model>
       <brand>Volente</brand>
       <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
       <price>55600</price>
     </offer>
-    <offer sku="I96155">
-      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:48</model>
+    <offer sku="H89590">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:46</model>
       <brand>Volente</brand>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
       <price>55000</price>
     </offer>
-    <offer sku="I16966">
+    <offer sku="I96155">
       <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:48</model>
       <brand>Volente</brand>
       <availabilities>
@@ -7616,6 +7728,22 @@
       <brand>Volente</brand>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>55600</price>
+    </offer>
+    <offer sku="I16966">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:48</model>
+      <brand>Volente</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>55000</price>
+    </offer>
+    <offer sku="M92767">
+      <model>Volente | Двойка-юбочн-коротк рукав-белый-ХБ | П:70 | Р:48</model>
+      <brand>Volente</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>55600</price>
     </offer>
